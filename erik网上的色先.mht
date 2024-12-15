@@ -1,0 +1,2227 @@
+From: <ÓÉ Windows Internet Explorer 8 ±£´æ>
+Subject: Guimond method
+Date: Thu, 16 Apr 2009 16:59:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01C9BEB4.AE19D8D0"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://erikku.er.funpic.org/rubik/2x2_guimond.html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Guimond method</TITLE>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3Dkeywords=20
+content=3D"rubik, cube, solution, rubix, rubic, Erik Akkersdijk, =
+Akkersdijk, wurfel, kubus, speedcubing, Guimond, Fridrich, method, =
+megaminx, 2x2, 3x3, tutorial">
+<META name=3Ddescription=20
+content=3D"My site is about cubing and sharing some advanced, and also =
+some beginners information about the rubik's cube.">
+<STYLE>BODY {
+	BACKGROUND-COLOR: #bcfce4; COLOR: #000080; FONT-WEIGHT: bold
+}
+TH P {
+	MARGIN-BOTTOM: 0cm
+}
+TD P {
+	MARGIN-BOTTOM: 0cm
+}
+P {
+	MARGIN-BOTTOM: 0.5cm
+}
+A {
+	COLOR: #b84700
+}
+TABLE {
+	FONT-WEIGHT: bold
+}
+</STYLE>
+
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18702"></HEAD>
+<BODY dir=3Dltr lang=3Dnl-NL bgColor=3D#bcfce4>
+<H3>Intro</H3>Guimond method was invented by <A=20
+href=3D"http://www.rubikscuberecord.com/">Gaetan Guimond</A> in the =
+early days of=20
+the cube. I've learned this method and adapted a lot of algs for it to =
+be=20
+faster. This is one of the fastest methods for solving the corners or, =
+solving a=20
+2x2 cube. Guimond method uses the principal of opposite layers. So you =
+must=20
+learn to see Red/Orange, Yellow/White and Blue/Green as one color so for =
+this=20
+method you have to be color neutral which is not very hard. The first 2 =
+steps is=20
+all about orienting 2 opposite layers of the cube. Then permute both =
+layers at=20
+once, which is faster than permuting only one.=20
+<H3>Step 1</H3><BR>At this step you need to have 3 stickers of opposite =
+layers=20
+on 1 face. This is already done 90% of the time. Else you have to set it =
+up with=20
+one or 2 moves. <BR>So the D-Layer should look like this when doing x2 =
+(the=20
+purple stickers can be various color, white/yellow, orange/red, or =
+gree/blue).=20
+<BR><BR><IMG src=3D"http://erikku.er.funpic.org/rubik/images/G20.gif"> =
+<BR>When=20
+you've got the left image you'll have a case on the U-Layer of the =
+second table=20
+at step 2, when you have the right one, you'll have on of the first =
+table. Don't=20
+look at this, you can recognize the case pure by looking at the top =
+layer.=20
+<H3>Step 2</H3><BR>For this whole method I will give examples with =
+purple=20
+stating the 2 opposite colors as 1. <BR>This is a short step which can =
+be done=20
+in about 4 moves. Put the place of the cubie of the 4th sticker on DLB =
+and the=20
+rest on the D layer. Now you have several cases to get both layers =
+oriented with=20
+mixed yellow and white. <BR>For a lot of cases, the execution is not =
+with the 1=20
+non-oriented sticker on the DLB spot, therefore I first do something =
+like y2 in=20
+my notation. Of course you can do this instantly and don't have to =
+recognize it=20
+from a weird view. <BR>I've made 2 seperate tables, for there are 2 ways =
+the=20
+non-oriented sticker can be oriented. You will quickly notice =
+similarities=20
+between cases of the 1st and the 2nd table.=20
+<TABLE border=3D1 cellSpacing=3D3 cellPadding=3D4 width=3D277>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <THEAD>
+  <TR>
+    <TD>
+      <P><IMG name=3DAfbeelding1 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/G1.gif" =
+width=3D163=20
+      height=3D177><BR><BR></P></TD>
+    <TD>
+      <P><IMG name=3DAfbeelding2 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/G2.gif" =
+width=3D163=20
+      height=3D177><BR><BR></P>
+    <TD>
+      <P><IMG name=3DAfbeelding1 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/G3.gif" =
+width=3D163=20
+      height=3D177><BR><BR></P>
+    <TD>
+      <P><IMG name=3DAfbeelding1 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/G4.gif" =
+width=3D163=20
+      height=3D177><BR><BR></P></TD>
+    <TD>
+      <P><IMG name=3DAfbeelding1 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/G5.gif" =
+width=3D163=20
+      height=3D177><BR><BR></P></TD>
+    <TD>
+      <P><IMG name=3DAfbeelding1 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/G6.gif" =
+width=3D163=20
+      height=3D177><BR><BR></P></TD>
+    <TD>
+      <P><IMG name=3DAfbeelding1 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/G7.gif" =
+width=3D163=20
+      height=3D177><BR><BR></P></TD>
+    <TD>
+      <P><IMG name=3DAfbeelding1 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/G8.gif" =
+width=3D163=20
+      height=3D177><BR><BR></P></TD></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD>
+      <P>(y2) RU'R'</P>
+    <TD>
+      <P>(y')R'F'R</P></TD></TD>
+    <TD>
+      <P>F'L2F</P></TD>
+    <TD>
+      <P>L2'UL'</P></TD>
+    <TD>
+      <P>Do x2 and you have case #5 from the 2nd table</P></TD>
+    <TD>
+      <P>R2F2UF</P></TD>
+    <TD>
+      <P>F'RU'F2U'</P></TD>
+    <TD>
+      <P>RF2U'R2FU'</P></TD></TR></TBODY></TABLE><BR>The second table:=20
+<TABLE border=3D1 cellSpacing=3D3 cellPadding=3D4 width=3D277>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <THEAD>
+  <TR>
+    <TD>
+      <P><IMG name=3DAfbeelding1 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/G9.gif" =
+width=3D163=20
+      height=3D177><BR><BR></P></TD>
+    <TD>
+      <P><IMG name=3DAfbeelding2 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/G10.gif" =
+width=3D163=20
+      height=3D177><BR><BR></P>
+    <TD>
+      <P><IMG name=3DAfbeelding1 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/G11.gif" =
+width=3D163=20
+      height=3D177><BR><BR></P>
+    <TD>
+      <P><IMG name=3DAfbeelding1 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/G12.gif" =
+width=3D163=20
+      height=3D177><BR><BR></P></TD>
+    <TD>
+      <P><IMG name=3DAfbeelding1 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/G13.gif" =
+width=3D163=20
+      height=3D177><BR><BR></P></TD>
+    <TD>
+      <P><IMG name=3DAfbeelding1 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/G14.gif" =
+width=3D163=20
+      height=3D177><BR><BR></P></TD>
+    <TD>
+      <P><IMG name=3DAfbeelding1 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/G15.gif" =
+width=3D163=20
+      height=3D177><BR><BR></P></TD>
+    <TD>
+      <P><IMG name=3DAfbeelding1 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/G16.gif" =
+width=3D163=20
+      height=3D177><BR><BR></P></TD></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD>
+      <P>(y)R'UR</P>
+    <TD>
+      <P>LUL'</P></TD></TD>
+    <TD>
+      <P>(y2)RU2R'</P></TD>
+    <TD>
+      <P>(y)L2D'R</P></TD>
+    <TD>
+      <P>RU'BL'</P></TD>
+    <TD>
+      <P>F2R2U'R'</P></TD>
+    <TD>
+      <P>R'FU'F2U</P></TD>
+    <TD>
+      <P>xUR'U'RU2R</P></TD></TR></TBODY></TABLE>
+<H3>Step 3</H3><BR>This step is very short also. Mostly this step can =
+also be=20
+done in 4 moves. Here we bring the white/yellow, red/orange, blue/green =
+cubies=20
+to their layer where they belong leavind you with 2 oriented layers. =
+Sometimes=20
+it is possible to see which case you get for this step at preinspection. =
+<BR>The=20
+left image shows the situation of the Upper layer and the right one of =
+the=20
+D-Layer (when doing x2)=20
+<TABLE border=3D1 cellSpacing=3D3 cellPadding=3D4 width=3D277>
+  <TBODY>
+  <TR>
+    <TD><IMG =
+src=3D"http://erikku.er.funpic.org/rubik/images/G17.gif"></TD>
+    <TD><IMG =
+src=3D"http://erikku.er.funpic.org/rubik/images/G18.gif"></TD>
+    <TD><IMG =
+src=3D"http://erikku.er.funpic.org/rubik/images/G19.gif"></TD></TR>
+  <TR>
+    <TD>R2U2F2</TD>
+    <TD>R2U2R2'</TD>
+    <TD>R2U'R2U'R2</TD></TR></TBODY></TABLE>
+<H3>Step 4</H3><BR>This step is pretty easy, you can learn the first 6 =
+cases=20
+(including solved case, but for optimization for this step, learn to do =
+case 1,=20
+4 and 5 from different angles. I gave 2 algs for other angles but there =
+are 3=20
+more I use.=20
+<TABLE border=3D1 cellSpacing=3D3 cellPadding=3D4 width=3D277>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <THEAD>
+  <TR>
+    <TD>
+      <P><IMG name=3DAfbeelding1 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/lbl0-7.png" =
+width=3D163=20
+      height=3D177><BR><BR></P></TD>
+    <TD>
+      <P><IMG name=3DAfbeelding2 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/lbl0-8.png" =
+width=3D163=20
+      height=3D177><BR><BR></P>
+    <TD>
+      <P><IMG name=3DAfbeelding1 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/lbl0-9.png" =
+width=3D163=20
+      height=3D177><BR><BR></P>
+    <TD>
+      <P><IMG name=3DAfbeelding1 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/lbl0-17.png" =
+width=3D163=20
+      height=3D177><BR><BR></P></TD>
+    <TD>
+      <P><IMG name=3DAfbeelding1 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/lbl0-18.png" =
+width=3D163=20
+      height=3D177><BR><BR></P></TD>
+    <TD>
+      <P><IMG name=3DAfbeelding1 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/lbl0-21.png" =
+width=3D163=20
+      height=3D177><BR><BR></P></TD>
+    <TD>
+      <P><IMG name=3DAfbeelding1 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/lbl0-19.png" =
+width=3D163=20
+      height=3D177><BR><BR></P></TD>
+    <TD>
+      <P><IMG name=3DAfbeelding1 align=3Dleft=20
+      src=3D"http://erikku.er.funpic.org/rubik/images/lbl0-20.png" =
+width=3D163=20
+      height=3D177><BR><BR></P></TD></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD>
+      <P>(RU2R'U')(RU2)(L'UR'U'L') (I do this alg in about 1.25 =
+seconds)</P>
+    <TD>
+      <P>(F2 U'RU' R'U F2 U R U R') (I do this alg in about 1.7 seconds =
+and is=20
+      the slowest alg here)</P></TD></TD>
+    <TD>
+      <P>Already solved! :)</P></TD>
+    <TD>
+      <P>R2UR2'(U2 + y') R2UR2' (I do this alg in about 1.1 sec. =
+)</P></TD>
+    <TD>
+      <P>LD'L F2 L'DL' (1.25 sec)</P></TD>
+    <TD>
+      <P>R2F2R2(0.6 sec)</P></TD>
+    <TD>
+      <P>R2UF2U2R2UR2'(1.4 sec.)</P></TD>
+    <TD>
+      <P>RU'R F2 R'UR'(1.15 sec)</P></TD></TR></TBODY></TABLE><!-- Ad by =
+funpic.org --><NOSCRIPT>
+<DIV style=3D"DISPLAY: none">&nbsp;</DIV></NOSCRIPT>
+<SCRIPT type=3Dtext/javascript=20
+src=3D"http://media.funpic.org/layer.php?bid=3D10873940"></SCRIPT>
+<!-- End Ad by funpic.org --></BODY></HTML>
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/G20.gif
+
+R0lGODlhEQGGAPcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD/
+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBm
+AABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/
+MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNm
+ZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/
+mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZm
+zGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb/
+/5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZ
+AJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwA
+M8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZ
+ZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8A
+mf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+Z
+zP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///yH5BAEAABAALAAAAAARAYYA
+AAj/ALUJHEiwoMGDCBMqXMiwocOHECNKnEixosWLGDNq3Mixo8ePIEOKHEmypMmTKFOqXMmypcuX
+MGNi/Eezps2bOHPq3Mmzp8+fQHvKHEq0qNGjSJMqXcq0qdOnUKNKnUq1qtWrKVFo3cq1q9evYMOK
+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
+u+ANr3jHS97ymve86E1vRQICADs=
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/G1.gif
+
+R0lGODlhhgCHAPcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD/
+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBm
+AABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/
+MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNm
+ZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/
+mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZm
+zGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb/
+/5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZ
+AJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwA
+M8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZ
+ZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8A
+mf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+Z
+zP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///ywAAAAAhgCHAAAI/wC1CRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkx/lXFLJcqXLljBfyoxJc+ZM
+lCZr6rS5syfPlzhJ/vRJdKhRlUGFFl16tGnSiUifSsXZ0iGAq1izat3KtavXr2DDih3rVSDQhgAe
+qF3Ltq3bt3Djyk0rt67du3EBCKyKFq/fv3MBCx6sVq+2swzpEl5sVzHjx3AN800MubJbx5YtG0a8
+EHPmx54/M5bs0qpozac1m2VpOjVo15BJR6UMe3Ho2n43s+6Le/Dt3o33luYN/O/v4nlXr2yNHO/x
+5peFz+4M3Xl158rlML+el3twbZOpe//vPj754d20y19WH1n6pe3sC8ePfn458fkPnnuX/f7+fP3c
+6WZfevgBeB1/8MVnYHUCauefgvixheCD7C0IXYMJVhjhWhMS+N+GhWWXoXoWNteheBGWiByGFJII
+Yn7ujVieisWx6CGEIJ6oEI298dijiC3O+KKOCflYm5FHAnmjhjnGGOR4SMJmI4oFDunkki42WZ+D
+WAqpZXg75mjlljJCOSaYRYqpJWdhbhila0Qi9OZpc9KpJJUffjlcl2auiR6eOLp5JaBMCkrmk/ud
+uSehWRrKZppuKjpdmymO+aicahqKJqaR+jkgo15quiilVWoJXn+IBjimRHV+1qqrFJH/JeustNZq
+a1kTAcDUrk3ppGuvwPJak2GsBmussC4BcOyywhIb0a/IRnsUtMxW65OzECkr7bY/aWvtt77Gyu24
+M1FLLrnYPuTtueBesm6756ZrFbvx0guvu7Hey+679kYrL1r9gmuuvt/+mxjB6CIMr8GdBbztwA4b
+y/COCnPLb8XHTlxkxP5yXK3GcmIs7cUeEwXyQRCL3GvKJRt1skEkq3ytzMy+XBDLNPvaMq82ExTz
+zjb9nDNPPQ+EM9AwHT10TEULJDTSyS4dbNPaKA21HFZLrRLVT2vtrtcmiwv2UFlDzfXYO3V9NddX
+T9v2tfm+3S3aZIstN01lS3323UHTvh1urnzjHXjQcfstk9pas2140oMzXXjjX0POkuKS5w303otH
+LflKlGeO9eZbP5454kh33rjlQ2MOOelLm7446i2rPrrnL7keOOw0yz446zvb7jfuHutuOO85+343
+8CoLzzfxJRuPNvIRK0838zI7/zb0GEsvN/UcWw829gFrPzb3Inu/Nuj45kr71utzbrfn4Cssftvk
+O8z1rfjnr3/+U/Xv//8ADKAAB0jAAhrwgAhMoAIXyMAGOvCBEExKQAAAOw==
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/G2.gif
+
+R0lGODlhhgCHAPcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD/
+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBm
+AABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/
+MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNm
+ZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/
+mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZm
+zGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb/
+/5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZ
+AJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwA
+M8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZ
+ZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8A
+mf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+Z
+zP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///ywAAAAAhgCHAAAI/wC1CRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkx/lXFLJcqXLljBfyoxJc+ZM
+lCZr6rS5syfPlzhJ/vRJdKhRlUGFFl16tGnSp1CjjgRAtarVq1izat3KtavXr2C3UgTwoKzZs2jT
+ql3Lti2ApkzjDgUwtq3du3jZApDLF65MuhPJ5h1MWK/fvogBSxRcuHHjvYcjI76kOCJjx5jxvp3M
+eW7dzKDtQu5M+u/n0KjTbpbMOm5liJdTyx7durbP1w9jy0a9urRv3A517wZN27dtl8AbCh+Oufdx
+43KSM1zO/DH058hPVyeO/Xp07dube//HLn0h9fB5nY/nW17hefR3i3cnDx4+YfXzObdP+N6+3vXH
+7YdQf/6phR+ASwl4EIEFoiUfgn4paBCDDZp1YH6tSVgQhRU+8CCGfWlIEIcVXghhTyIORGKDH55o
+VIoCrVigiSAeBqM2MvrXYo1M3ZijfTS6SJOPHQ62o5A2EVmkZjw+p+SSoiHZY31QqtakflRWedaR
+V76YpZZlBdmlTk+CqZqUEX4JpphofheYmWtx2SZlamrJ5pgzlQmnhXPeVmeVd0qp554e9unlm4Ru
+iSd7f0Ip56KmIZpomJC61uiSj6I56J6BVropnJlWSqekk3Yq5KdmhookqmuKmuClRar/CimrdroK
+F62AGroTro7aShSvmOr6E7Cx+noUsR3K6qKPYTXr7LPQRqvVWMIOOemWYxm767UWUqstTz8CmW21
+f3EbprfkshQufD5+W9O66PmY7kvwhtfuvCrVu5287uZprofj9tuSvtXxiy/BzN0rMHL/GrxwdA0H
+PC/CwzmcLsW7KTxxxIHhuxLGs0m8MMipWSwwybyJTC7KoZlcLcvEqdwvzJm57C7NzcksLM6O2awr
+z4/p/C3QhfmsLdH3CW0o0kai+zDT6SltLNSaOX0xx4s9zLC5RvdJdXxSz/m1aFafjLVlWud7Nmwe
+Q8x12LaO7VbZL6+dW9qU2R1c23LrZQW3pnorx3fg0+Hdd5x030y4eYYv7t7gbwfWeOSLQc6txiM7
+zp/l12K+suYDcl7q36IebmDiP4O+4OSXjyXt61+1vZJUHcnOEu0b4d0S7rnLzvvvwAcv/PDEF2/8
+8cgnr/zyGgUEADs=
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/G3.gif
+
+R0lGODlhhgCHAPcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD/
+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBm
+AABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/
+MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNm
+ZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/
+mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZm
+zGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb/
+/5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZ
+AJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwA
+M8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZ
+ZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8A
+mf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+Z
+zP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///ywAAAAAhgCHAAAI/wC1CRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkyhTqlzJsqXLlzBjypwp8ZIc
+mjg12rQJoKfPn0CDCh1KtKjRo0iTEoUoZyeAB1CjSp1KtarVq1gB7GzKdavXrmC/ig1LdisAiGax
+ql3L9iqAsnDHyo1L99LZh12ftt3L1+3cv3UDz73rMG3fw4jfAl4suLFdpk4RS+ar1bFlxmMJNzQ8
+uXPWy6Ax54XcVK/n01Qri14dWo5mhpxRy36guDVrzK8X5p3NW7Xt35nRcjXN+3Tt28Dj5la4uzhq
+38ij012eMLbzyceTS/dKHWHz652ha/9P3v2gdfCHs28f/xhvZPTY18snW97gefh71bO3Xb/gd/x9
+iTffev0RdB+Aa+k3IH+k2YVgegsuWOBABz7o1n4DTijQfxYmGOF4GmpTYYepYahdiByS6JeJBArH
+k4psKciiYyi+B2NWH84X4og30jbjdjWW1iOOP7a243BDXpgjcEE6mGRVAhbJ2JEvPlnikkA2SJyV
+UEWJZWNUusblVDJ+uViTW3LppZTTuSjmmFGVyaZcaMIZp5lGupmmlXLiSaeWdnbpJ2hh7vlkn3OG
+VWegaw4a3EM83oioo6O5JySjlIpWaKA+ZirYonY2muhXmzI6Ko2AYnrqlHpyOumqoML/KaqnPLVq
+Kq11xTrmrKu6ZmuovZ6Zaqi4AlYqsMUqN6ysyQ72q6zB5rrsrs3CdSy01YpVmUN5KeXtt+CGK65Q
+W3F7iTaGJplukl1FtG6P7/ZYbkNNoesqpw+0y1CKfOI770KRwhjvjfrqZqOs/nK1GZKM4lswcwfv
+mrBNC1cZqsM70RuxmhPfBBvDF3P6cEL8HtpxxW+GHOjI3m3cL6f/KhSwigPDyPJBJat78scWIyxy
+xvu6bDLMCvOcss8rA23wpSrbGXN1ICNt580G5TxkzSo+jdDMJGJNItX+Ca0z0RQb7bWFZ1sINkFW
+w7szwFFL/HO9QTMtNZxamxc3x3Of0Vu3k03jXTTcPcudNN1LA373mHnbt/fLh/udeNoIUo5g4wVx
+3aHlAK49UNuSvi3z40NHrrHdhjs9+OiF823635zDFzt8mBtI+tivT34v2R4TfnTqcHq+odhXiw51
+65BPrTTEqLuuetm+zw6e9OAJrw3oAhu/9e3F93264sAzvvrxvzsf/PIkE+827yhT75z7zlmPPc3a
+64186cojzjz45osPPeuuGZcAB0hAAcoPfTnJSe3YJrkEOlBEvXugBCdIwQpa8IIYzKAGN8jBDnrw
+gQEBADs=
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/G4.gif
+
+R0lGODlhhgCHAPcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD/
+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBm
+AABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/
+MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNm
+ZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/
+mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZm
+zGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb/
+/5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZ
+AJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwA
+M8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZ
+ZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8A
+mf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+Z
+zP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///ywAAAAAhgCHAAAI/wC1CRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkx/lXFLJcqXLljBfyoxJc+ZM
+lCZr6rS5syfPlzhJ/vRJdKhRlUGFFl16tGnSp1CjjgRAtarVq1izat3KtavXr2C3UgTwoKzZs2jT
+ql3Lti2ApkzjDgUwtq3du3jZApDLF65MuhPJ5h1MWK/fvogBSxRcuHHjvYcjI76kOCJjx5jxvp3M
+eW7dzKDtQu5M+u/n0KjTbpbMOm5liJdTyx7durbP1w9jy0a9urRv3A517wZN27dtl8AbCh+Oufdx
+43KSM1zO/DH058hPVyeO/Xp07dube//HLn0h9fB5nY/nW17hefR3i3cnDx4+YfXzObdP+N6+3vXH
+7YdQf/6phR+ASwl4EIEFoiUfgn4paBCDDZp1YH6tSVgQhRU+8CCGfWlIEIcVXghhTyIORGKDH55o
+VIoCrVigiSAeBqM2MvrXYo1M3ZijfTS6SJOPHQ62o5A2EVmkZjw+p+SSoiHZY31QqtakflRWedaR
+V76YpZZlBdmlTk+CqZqUEX4JpphofheYmWtx2SZlamrJ5pgzlQmnhXPeVmeVd0qp554e9unlm4Ru
+iSd7f0Ip56KmIZpomJC61uiSj6I56J6BVropnJlWSqekk3Yq5KdmhookqmuKmuClRar/CimrdroK
+F62AGroTro7aShSvmOr6E7Cx+noUsR3K6uJmi4Xl7LPQRittVkDBNqmF15rVkmXZetjtA9Xm1u2P
+9m1rbbbkwhducON+a6646H67rnLtdvsuu/F2O+909WZ7L735Zruvef1e+y+/AV87sHsFT3owwQlP
+ujB/DSf6MMMRJzrxgBUTejHFGRO68YId7/kxxyHvOfKEJcN5Mskpw7nyhi2b+TLLMZs584g1g3kz
+zTmDubOKPWv5M89Bazl0jEVXeTTRSVe5NI5NQ/k001FDOXW64XEd3tVUZ73k1lUvCbbX1aFdHdli
+F3l22UWyfa3azL3ddodyl+quS9zee11h3onSPZzdc8vLUt+F28v3uYkLfDjjeiuOFOSBG74S4pH7
+uzi8jSv8OOeZG7w5vp1L/DnpoTs8OsCla3w666lbvDrCrYv8+nTT5r6VSrr33hXYwtYklUJLB8/T
+8MTLEZGxPSHvEfM/OS/99NRXb/312Gev/fbcd+9QQAA7
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/G5.gif
+
+R0lGODlhhgCHAPcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD/
+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBm
+AABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/
+MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNm
+ZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/
+mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZm
+zGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb/
+/5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZ
+AJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwA
+M8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZ
+ZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8A
+mf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+Z
+zP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///ywAAAAAhgCHAAAI/wC1CRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkyhTqlzJsqXLlzBjypxJs6ZM
+ADhz6tzJs6fPn0CDCh1K9CdFAJfkJF2qtCnTp06jQp0qVSrSqlSzYt2qlSmAo1zDdhUbFgDZsWjP
+Ov068Wrat2qzuo1LF65XsHbr6jWbt29dthLn+h3MVbBewloBR+R7uPFYxogdY1UM0XDky5YlX5ZD
++SFkzaCTft6M+Sjp0Eozn/bb2eFo1IRfrz7cuqFq2H9nb67NUDbuvL51x+W98LZwtMZ/qyWuMLjy
+tM6Pi2WeMLl0udcbU0cY/XlZ74i3H/+0Dn5ydtZ4ywNXT9s0e7vkz0cVb7C7fK/v/7q/fzZ+ftHp
+8ffYf8PtR2BX/vFHX0H2EdiggAsSlOB7E8oX4UAP5pfhfRcKVKF6H2bXoTYbslfieSOGCJ6K0qV4
+IFkngmiggIXRCF2AL1IV43Up2jidj4/hCOR8OU43Y5FPseidi0PqiGRhRzaZmpQ6CvmkaFdOFuWV
+SgrHZJb4UWnVlk12qdyXYmKZ5lpkImnmbGiCyZmcSbYJ5Ju4xSnmjivamSOep+mZJZ/H9UjnlIcC
+2Faic665lKGOAoqaoFIS+hykdEq6m5WVMnoJpmlqChqlT1qqW4pFparqqqy26tNRD8T/KuustNZq
+66245mrqbynm6uuvwOIqamS9BmvsscJ6WiyyzDI7rGTLNistsLuuFu202N76bGywZuutrdXCdu23
+326rXbfkphsuaeOmi6256LXlrrrKojtvtvDuZe+9064bWrv8IpsvcPsG7Gy98hrcr6NNAawwtQgH
+9rC0A9Pl8MS6RrwYxs4yrKjEHB/rb2kJhxxsxXBdbDKtI2um8sqyorxcwTCDq3FlNf8q840l56zt
+zZ75rKvHnNEsdKwth2f00TvDuLTQSTv2cs1NB9nz0bNGPdjUMFdd1tM+a93e1VgjTTTXK4vdF9om
+e50Y2DmrrR/ZZbu9Fdshyw0f3FSfac1310C7VnatdldJN9Z6F3g4034vDnXgtg3OcuMgS4405L1Z
+HjPlG2v+QOJv4c1x4VWJjjHo/f2dNuc4e446cqq3zbpnjLpqe1EUeSqHTRcRfQnvvScK/PDEF2/8
+8cgnr/zyzDfv/PMBAQA7
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/G6.gif
+
+R0lGODlhhgCHAPcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD/
+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBm
+AABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/
+MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNm
+ZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/
+mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZm
+zGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb/
+/5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZ
+AJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwA
+M8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZ
+ZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8A
+mf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+Z
+zP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///ywAAAAAhgCHAAAI/wC1CRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkx/lXFLJcqXLljBfyoxJc+bM
+gTVz2tTJc6fLiT2D+hSaUxvRoUiPxpSYtKlSp5e0QX1K9SbTqlibDpzKNasclGDDfgRAtqzZs2jT
+ql3Ltq3bt3DXUgTwoK7du3jz6t3Lty/dvoADC+YLYO7gw4j9Jl7MuG7hiX8bSw4cebLlvY8lVr7M
+2XHnz3YzR9wMejLp0pJFQzyNejHr1olVP3wNezDt2oJlO7yNW3Hvxrob8v6tdzjxvMEZGj8emnls
+w85tRz+cfOFy59exQ58OODvz6gq9E/8XP347d8LnKZtPj5y93/Xum8cvDn8++d/gE97HvZ9//fj9
+1ZYfQgG2VqCB/7l3IGoDHrQgaA9CmCB7EX7WoEEVcpahhhOmt+FlFxb0oWnz0QdZiXiNaFqH56mY
+GovcuQgcjNPJyFiIBNkYG4op0hidjs+dyKNnQzrmI3ZFGinkkEAihuNATUqX5JMCRZlbkg9QqY2V
+lGGpJZfdeXnkd2IuySOY3Y15HJrvmYkim4SpOV6Zmk1J52h2TiknfneulmeRX/7J5J69wYkZofz1
+OZugZyIqoKK7Mfqmo7AZSp9Ko8Wl6aacduqpWi2t5lVXTlmK3EurkTpqT6amGOpsq6r/OlSrdwGA
+6myyxloTraG9upuuuc7Eq2O37hYssC0Nm6WvwiF77ErK2spSqs6OGi2zylV7bLTFCvess9f+BOu3
+5MrB7bS4jlpAuZeEi+m4XhUgh7zfnrsStcEWQG+s7kYFL7te2ftVugAH26+oBQfsZbfKJWywl9ha
+p63CUzJsncNZHfzvxF0JjC/HT2n8K8aqekwwyFyJ3CzJVJlsLMohQyzuyDBP5bK3NR+lcrYsd7ww
+ui/3rLPM79IsdKk/33vy0awS7a/ROSd1c8NRC7WzxEwjXTHQOGfd9JQRh1e11oBaHJ7XTV0tNto8
+TX3x2F8DGrZ+cEud9MBB172r0wjrbr2T22f7vTfYM68suLB3f8y2TWrTvXhOgOv3uE+NE3g4TZET
+OPngchfO8+UvZe7g5ozzvTHp5ia+NOjKmr026CwpO7fksLsUrmaf5q777rqL5fvvwAcv/PDEF2/8
+8cgnr/zyzDfv/PPQRy99WAEBADs=
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/G7.gif
+
+R0lGODlhhgCHAPcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD/
+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBm
+AABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/
+MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNm
+ZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/
+mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZm
+zGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb/
+/5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZ
+AJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwA
+M8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZ
+ZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8A
+mf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+Z
+zP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///ywAAAAAhgCHAAAI/wC1CRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkx/lXFLJcqXLljBfyoxJc+ZM
+lCZr6rS5syfPlzhJ/vRJdKhRlUGFFl16tGnSiUifSsXZ0iGAq1izat3KtavXr2DDih3rVSDQhgAe
+qF3Ltq3bt3Djyk0rt67du3EBCKyKFq/fv3MBCx6sVq+2swzpEl5sVzHjx3AN800MubJbx5YtG0a8
+EHPmx54/M5bs0qpozac1m2VpOjVo15BJR6UMe3Ho2n43s+6Le/Dt3o33luYN/O/v4nlXr2yNHO/x
+5peFz+4M3Xl158rlML+el3twbZOpe//vPj754d20y19WH1n6pe3sC8ePfn458fkPnnuX/f7+fP3c
+6WZfevgBeB1/8MVnYHUCauefgvixheCD7C0IXYMJVhjhWhMS+N+GhWWXoXoWNteheBGWiByGFJII
+Yn7ujVieisWx6CGEIJ6oEI298dijiC3O+KKOCflYm5FHAnmjhjnGGOR4SMJmI4oFDunkki42WZ+D
+WAqpZXg75mjlljJCOSaYRYqpJWdhbhila0Qi9OZpc9KpJJUffjlcl2auiR6eOLp5JaBMCkrmk/ud
+uSehWRrKZppuKjpdmymO+aicahqKJqaR+jkgo15quiilVWoJXn+IBjimRHV+1qqrFJH/JeustNZq
+a1kTvYqaqRHpWpmvv8aaaYrCdmooq8MWWGylvEIE7GvNPvTsaKv2mux/y5Z6rLXGEpvrtQpmm+e2
+zoJbobiBeotst8p+yy627jJLrrTmkohuoepyK2++5b4bbrza8kuvv+cCPK7AZSYabcKqLpzqgdX2
+u2+7604Mb8UBU6xvxhdvfLDGEnP8L8YfdxxyySN7nC7IA1uc8skrm9yyyAWTHPPLM6Ncs8r4ssww
+xA7zqfC8PzMYcc437wxzzzIXfeHRTpsI9cNGBw1qn0RT/bTVpOpsr8FJf20z0zhbdevZaKeN9kQr
+vQjipA01xdTcTalF991yyxQR3nznJt33335LBPjgfhdOOE1sH274UdktrvimU0Uu+eSUV2755Zhn
+XlJAADs=
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/G8.gif
+
+R0lGODlhhgCHAPcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD/
+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBm
+AABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/
+MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNm
+ZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/
+mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZm
+zGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb/
+/5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZ
+AJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwA
+M8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZ
+ZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8A
+mf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+Z
+zP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///ywAAAAAhgCHAAAI/wC1CRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkyhTqlzJcuElOS9jwpwpsybN
+mzZz4tz5sqVHnUB5Cg1K9KZPjkOTFl2qFOZDp0cVNmVKdSrUhjS1AdjKtavXr2DDih1LtqzZs2If
+ytT6oK3bt3Djyp1Lty6Aunjz6rX7NCbbvYAD070ruLDhBwDUzvx7uHFewo4jD+7rFLLky24tY8ac
+2OFazZsjgw7tuDNWv6NJG06turBphp9bS2YtG/DrhVlp1368u7Tinrp7DxZ++LZU1MRdJ3f9Ww7j
+5XqDQ39rPGHu6XulY0fc/Pn2udqxV/9HeP27XfN4xx+MjR58+8kOy7+HG366eoPs51PXH/d+Qfn8
+IRYgdd3Vt5yBB1J2iXf6IZicfwTlF6CDxEE4EID8USichQJJmOGAmSnI4Hwa9sahNh42CGJbJ2Ko
+4oonpkjiitzFhxyIJe4W42I5ytajjyL+qJqQQxYII40t3jggkaTtCNyRMAYJJY5G4oiklFZG6RmP
+Uy6J5ZJXbvlkllTaWFmXE1YJppannUmml2I6x+Rmc9L55YRhNiTje3VydueHbMLG5Ztpmrlgn7Pl
+KeiYa5bZ5qFoZqgmnoHipiSlji4qZ6QN/vlipgxBhahoikI0amk0XmUqWqy26uqrsH7/lVVEpzZW
+62Fr0crpe7Oaumt7ufpKqH69PnTraisGa+yv6BXr0LHKgajss8ya52xD0AqWbWDTYlvtd9cytK1t
+yS6m67DzhbvQuNmV29O5jQaorkLsRueuc/BiKq9f+QI6YLfifrvdvAnVy5u05gobL38EI2RwevdK
+9PB5IDZ80MTDIfyuwvoyzC/H/gYI8LoCY2exQRi7pzG+IH+6r6rUovveyPSWPN3JBaUsl85x0Vyw
+zdDhTBDP9EXcr8sew+ytzMAmvCzTzX789ML6+eww0MsJPRDR+60sMdbJaS0Q15kZ3fKMFUsdM9Xz
+WX0x2MSJPSKfZk/dMbFqL832zE6vZH13unkHDLV5bqMMt3Byk81i3X6HnPSCR6P9b996/81r4CQP
+/l3hOR/eW+Kxhi766LFyXlBVqFuVU1TkYa5Q6rCrLrdJSj8qe+xVsd7R7bynrvvvwAcv/PDEF2/8
+8cgnr3xDAQEAOw==
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/G9.gif
+
+R0lGODlhhgCHAPcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD/
+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBm
+AABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/
+MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNm
+ZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/
+mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZm
+zGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb/
+/5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZ
+AJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwA
+M8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZ
+ZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8A
+mf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+Z
+zP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///ywAAAAAhgCHAAAI/wC1CRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkyhTqlzJsqXLlzBFyrkUsybI
+mTNt6tx4CSeAn0CDCh1KtKjRo0iTKl1qFCLOSwAeSJ1KtarVq1izagXQs+vTr17Dgh0rtuxYABC9
+RtXKtq1brADIyjVLd65dqE67rn3Lty/cuoDvCq6L9qFav4gTP4gbuPHgx3gfPt2ruDJbrpAzOzZb
+2OFhy6CzMtZMevPMzg0nh15tFbPp16XloGb4mbXt0bBzQ569ULXt27qDP+atsPbv0LhjC6dLPKHv
+48iXK7fbHKFx6JWTS99+Ou9p7NGnc/8XW/3gdfCItYtfH9nhc/SJXbOfX97gefh81Y9XXr/ge/x9
+ybefdP0RdB+Abek3X3AFDvQfgm4JuOB0DQp0IISiTThehdo8iOFWA9KXlk8f5qchexx6WOJVEoao
+G4cXrkiVgi7u5h1UMiZYI4Ej9kRZjiyeuF2KegEJopAU9iibkRnuyN+NPzI5VYtImgYjiVK2VuWT
+khWZZVVUOunYlT5+CeaWDEJp5oxixkbmkmtKRSOacxH5XZyLtfmiklFmOaeeZNmJI55h0kkYn3gu
+ZqhmgvYpZaGAcoYooYu+1miikFb61ZuOMvmnpnqpSWikmXGKKaiDXToqqoGZSimpm6n/GmemsPo0
+6ays3iXrmrSi6iqutTa2q5m91vorr7kCNuyXxWp6LLHJ1hlRT9p0amSzpHJIkLVAfhqstgMxJe64
+5JZrblMTcZujt6CCK5C6MmK7qLvVnhqsrhTBu6K8gNKrb4nswuovpve2mq+90ZY18KoFy7UwsAmD
+9TCvDR+aLsIVS3wwwxGrtTHEGYc1MbEhn/UxsiWLfDLJHW+6MrMtq3wxxynL9rKfMU9286M1ezwz
+yDGPzGzPtv6Mcs7tRfTvh/zSKTTORCcN0dIYNt3m048i3Z3RLBONtadaS/0Q1RBaveXX14aNdrdR
+28w1zFGvvW7bcser9s6e0o132nHvcM221nXve/fbfupNeNZ9H5434H6vO7hEZCNotpOBA/y40gQz
+rjjfSFfOtOGQYxx04/GCjvmrnZO+r+lTi56y51WzPrbrHcNetuyedX7u7kxN1DZNO10UthzBY6R1
+8cgnr/zyzDfv/PPQRy/99NQ/FBAAOw==
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/G10.gif
+
+R0lGODlhhgCHAPcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD/
+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBm
+AABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/
+MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNm
+ZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/
+mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZm
+zGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb/
+/5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZ
+AJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwA
+M8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZ
+ZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8A
+mf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+Z
+zP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///ywAAAAAhgCHAAAI/wC1CRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkyhTqlzJsqXLlzBjypwZUc4l
+mjg12rSpDYDPn0CDCh1KtKjRo0iTKi368NLOng+iSp1KtarVq1izAnDKdWfXr17Dgh0rtmxXAA+9
+Qs3Ktq3bqwDMyiVLd67dS2gddl37tq9fuHUD3x1cN29DtQD+Kl78IK7gx4Qj4236NDHjy263St4M
+maxhhogxi9bKuXRnr58X7rU8uvVUzadjm5aTWmFo17gbz5Ydu3bC1blxw95N3HNarnyDi3ZcvPlX
+3wiBKx89nLfzstAP3p6Ombn173ezG/+Uzv1y9evgnYovuL38Yu/oi68nSN694vPpr88f2N6+X/j5
+BWjTfgLV519f+MVnHYHa9HdgZgo6x6CBD7aVoIDgMehghaRhiN6ElXGIoIceaogcayKyBWCEvIHo
+VHIpYnUhi5GZyBOKMcJFY3ouygFjjlXNSOJmNt6EI5BUrThki5S9eCSSUgm5o11F/ghlVEpO+ViP
+Vl4p5ZKDVfmkl1qaxuWYUH5ZJlhiXmlVlmB2dqabQcZJXJt0vrYmZ3PmGaWdGR53o59R7tlbkz6i
+iaSagGInqJGEYmmoZH0SyuikeFo6qZyIdplmows+6umimxJWqZ+XgrpTpqiWumWnigL/meqerOYJ
+p6sDwhppY6rKViudt/Yq1qm2Cnvar24G6yqxwBpbo6ix5qiss5PpFWKks6qKLJnUhqcrtt0KxqA2
+L44qK66BaSbRUuy26+678BK1F0TTYrrrA2rRG+5c0eY470P1CttvjPkCvC9dA6f4r0MB03pvwQwf
+bFbCIi7cUMPaPoycvuhOfK/FDGFcJsUcQnyxxGORXCHIC4ncqMoPmhwyysN+/BS9HXumMU8c08wV
+zAeyrJDLUwLtn8wt+4yazeUCnDN2O9/U89M/M+0jzkqrF3VE2WpptH1CJ0S0nV+7h/TQWQ9oNddU
+h1V2eWeLnTZea2Pdtta7xo1Q14C+z81d2HvfverWU/vs93SAHzQ2jYcrp7ficzceXOIGLQ6m5Lk9
+XnnkdTudNua4aV4Q3zuC7hrlowuOd6SiE0R6nKa3hrrrqtNGuMGqxz7a7ANZHqHuorXeO+e78i6Q
+70MCj5nwxxMfqfE91a78Zcz35Dyh0CMf3/SMVf86i9wvlr30t0ece+cMk5/3xrhnHb5i439e/snn
+F3+z54K//5f31/sZf/7zm1n9sMUzesXrgAhMIAJzwsAGOvCBEIygBCdIwQpa8IIYzKAGN8jBDlok
+IAA7
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/G11.gif
+
+R0lGODlhhgCHAPcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD/
+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBm
+AABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/
+MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNm
+ZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/
+mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZm
+zGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb/
+/5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZ
+AJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwA
+M8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZ
+ZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8A
+mf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+Z
+zP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///ywAAAAAhgCHAAAI/wC1CRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsiTIS3JQqkzJcqXLljBfyowZsyLN
+mThv6sy5UiDPnUB/Cp0YtKhQozC1IT3KtOjEplCX3hQoNapVORWvajVqsqvXr2AbAhhLtqzZs2jT
+ql3Ltq3bt2opAnhAt67du3jz6t3Ldy7fv4AD7wUgV7Dhw30RK15Ml/BEv4wjA4YsubJexxIpW97c
+mLPnupgjav4seTTpyKEhmj6teDVrxKkfun4teDbtwLEd2r6dmDfj3GJ9L94tPC9whsSL202uHHTh
+5rWhGz6+kHlz69efS/+LXTl1hd2Fh/8Xr337YPOTy6PHO97394Ttb8eXr379cvuD6+N/MJ/2e4T9
+sRaggPrhN+Bp/x104GcLMligfQ16lqBBEW5WoYUPrnehZRMWtGFp+xmXIXofljaieSWiduJ2Kf62
+onQtDvcidDG2NuN1IbJ3o3c53tUhQTUeFqSQOxY35HRFitfjckm6t6Rzjz3Jn5T8NcnbkbVZKR+V
+Pw6E5WRcaulfmFE++WV6ZS55JndivrZmX20KSGZmUr6ZX5o92nlZnAjOKVqdfqoGaJ18kqaniHjm
+eKiOiYa4qI+FMhiobIOaKRdcmGaq6aacpiVXVaBG9SiTj21l6k6jQplZqKwelWpjcp3/KmtMr1b5
+WKu45lRrlwIBMOuvKe36KbCzCltqrsi6ZOyqxCK7rGjNyvqsaslWi9K0skWbK7a6WVstt2Jpayq4
+yHlb7KS6idsqudWZ6yy64bo7LrzlqnsVu+DZGyq+8MmLK78A6msVwAr6uxXBFApcFcIeGswqw0Aq
+DBXEXjp8L73VSbwUxb1aDCrH2vjq8cQYgzeyVCCLrLFQKZ/cVMorG9VyzD/B7LLMJfdLM1A274zT
+zDfXnHPAQQcFtM809Vz0z0MXjPRMSj/d0tFLJ910wlUzTeitUr8UddZTX91w1zB93TXVZJsN9iVo
+ry2H2k+3LTXca2+dWad4s+U2T2F9I0Q233139LdOgXe0N+GFJ6744ow37vjjkEcu+eSUV245RQEB
+ADs=
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/G12.gif
+
+R0lGODlhhgCHAPcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD/
+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBm
+AABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/
+MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNm
+ZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/
+mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZm
+zGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb/
+/5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZ
+AJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwA
+M8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZ
+ZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8A
+mf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+Z
+zP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///ywAAAAAhgCHAAAI/wC1CRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkyhTqlzJsqXLlzBFyrkUs+bE
+mQtn4rTJk6FOmgkv6QRAtKjRo0iTKl3KtKnTp1CXChQqVOFPAA+yat3KtavXr2DDYg1LtqxZsAAE
+/lRIVc7Ys3Djfn0rt27dtNraWqVK167fsn3/Cp6rlirboYMTz1XMmCtevQmvNp4ceLJgvGuDIras
+uDJnu4917p3p+XPc0qbhYjasWSjq1IBhX54qOjJf2X5f40ZbeCfCtrp3dw0u3DHtqrZJFz+9/HRv
+oL83N4893Wxo5AglVydLfPpq3weBb//nPp77cTmjL3Vfvp7988Ouy6OVzztv7ey36Q/X7/U79PDS
+8ZdVe8Vdh15y6gm4FYHC+QefWwpqxeBuBqY3oWwXYvheaxBG+ECGsFWIIIimkVjihtHF56GJn4mI
+n3IrejggigCqGCGLnLl4kHY3yvghjQaJF6OMOhrEo4I4WuYgh0k21qST51lIpI9Lpthhj0RGOeKU
+WWqTmZVPdkalli8mOOSKQBYkJJZo2ofdjvmxeWOaBK2J5JhuHlhmmInx2SedA9kpoJ+DFVnQkYPi
++WWNV97ZJWR7ctnmokEGmOij98EJo5xIAnoeoX+BGiqZmprJ6aCe5ikqaHhCWuqqdyn/yhqYks6Z
+p5Rn2kqpmpbyB+tdpBoZp6OTzsror8x16eV/0WmDrGp4SvTsWdNSS1FU2Gar7bbcSjURAD+F29a4
+4pZL7rnm9urrtei2m6678JpbrXXXvmtvvPimOy9g7N7rb74A72vet/8WDLC9AovV78EMG4woqgQ3
+LLHDCdcn7cQY/1sxYRE7nHG+G/e3sMckBxxtROB+XDLCJ0MEgMowixvycPXGbHOjnX57s80zG9fx
+zivbaOvFQRfdbs8L1mz00oJCTDTQHyMtodJQryz1jDozrbWpQ6O8tdZX/5h11RiHjZe0X8ds9shk
+e7z2z2lb3fJDL8cd9dwOpWy33Mqizdx22Xg3pPffFAfOUN2EM/w22okX3rfLjStu+EKD793w4n5b
+XjLmLms+Med0R24w6Hl7TjLpgotu8uN0m3755Aoh7rrGsCdUuer61o6Q7LgfrftBt8/uLuqH934v
+8ZQLXzDysRsPL/O2Kw/y7wbxLr281BcUvPPq6nd25tyfC/3u18c7PvDhY8966emTe3717cucPUHb
+l989fd9Dbr/v6wve7f9R2V+6epIRAbqLgBeJ37kQmEADiouBEIygBCdIwQpa8IIYzKAGN7iQgAAA
+Ow==
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/G13.gif
+
+R0lGODlhhgCHAPcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD/
+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBm
+AABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/
+MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNm
+ZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/
+mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZm
+zGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb/
+/5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZ
+AJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwA
+M8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZ
+ZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8A
+mf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+Z
+zP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///ywAAAAAhgCHAAAI/wC1CRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkyhTqlzJsqXLlzBjypxJs6ZM
+ADhz6tzJs6fPn0CDCh1K9CdFAJfkJF2qtCnTp06jQp0qVSrSqlSzYt2qlSmAo1zDdhUbFgDZsWjP
+Ov068Wrat2qzuo1LF65XsHbr6jWbt29dthLn+h3MVbBewloBR+R7uPFYxogdY1UM0XDky5YlX5ZD
++SFkzaCTft6M+Sjp0Eozn/bb2eFo1IRfrz7cuqFq2H9nb67NUDbuvL51x+W98LZwtMZ/qyWuMLjy
+tM6Pi2WeMLl0udcbU0cY/XlZ74i3H/+0Dn5ydtZ4ywNXT9s0e7vkz0cVb7C7fK/v/7q/fzZ+ftHp
+8ffYf8PtR2BX/vFHX0H2EdiggAsSlOB7E8oX4UAP5pfhfRcKVKF6H2bXoTYbslfieSOGCJ6K0qV4
+IFkngmiggIXRCF2AL1IV43Up2jidj4/hCOR8OU43Y5FPseidi0PqiGRhRzaZmpQ6CvmkaFdOFuWV
+SgrHZJb4UWnVlk12qdyXYmKZ5lpkImnmbGiCyZmcSbYJ5Ju4xSnmjivamSOep+mZJZ/H9UjnlIcC
+2Faic665lKGOAoqaoFIS+hykdEq6m5WVMnrJgkp56Ciio9LnFImMWqobfUyRWNSrsMb/KuusPj10
+KgAP5Krrrrz26uuvwAar6m+sNkVisMgmqyywmoJm6lLHLivttMx6WmxS0VKrrbbNRvZsqLhuK660
+w652rRzZjqsus6Mq2tCt68b7a7mwnZuuvPh2K9m3l9yLb7z0kmZvuP/m2y5ntkJLcMEAW/tQqwsz
+rK6+sSUMrsTyBhzawBgDfDC//nZMrcalOQSxyBN/bHG/EaM8LcmacezythRrt3LIMycLc3gPG9ty
+zjqr7BC8QL/ssMk+F/2y0O8qrDS5Rzd08tPK1oze0E5TrXPUDE2ttbBMM0T019W2KzPZ84a90Nho
+97qzY2e3zavVe938s9xvDxa33LrStA2c3Xy7zfVCXgeeq990gXx323m3hzS2i6ONOFyKG75r433t
+HfjkywFu+eGDK1S44ZzfiPXFnz+AuX6Poxs52aXD6Pnnq8PXM+Spq662QmyTHnpCo2++e0K9b/47
+QsHzHXuQp7Oce+0Fto4z48MjVLzyxx+UPN7VH3Q93tkbtD31qc5uOfRviXfq9JJ3X1CrrtIq//z0
+y9+zTfjnr//+/Pfv//8ADKAAB0jAAhrwgAhMYEECAgA7
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/G14.gif
+
+R0lGODlhhgCHAPcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD/
+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBm
+AABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/
+MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNm
+ZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/
+mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZm
+zGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb/
+/5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZ
+AJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwA
+M8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZ
+ZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8A
+mf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+Z
+zP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///ywAAAAAhgCHAAAI/wC1CRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkyhTqlzJsqXLlzBDXpITsybI
+mTNt6twoB6c2AECDCh1KtKjRo0iTKl3K9OhDnDQBPJhKtarVq1izat0KAKrXnmC/ig1LdqxZsAAe
+hv25ta3bt1oBlJ17ti7du17TOoTKFq7fv3HtCsZL+KzehmulAl7MWO7gx4UjXzrMkK9ixpjhdpXM
+GbJhtT4vZx4dt7Npz2UpL7RMunXWzahjm1atMLHr21Udn97tmXZC1rhxw+ZN3K5vhLaD39Ytu3nh
+4weBK2893Ln1udANJp9Omnnx72KzF/+Uzj1zdfDoZ4onuL08Zu/X4/dcP5C8+8Xn5V+nL7D9fcDw
+pQcef9rY959f+QnoHIH+HaiZggoSaKCDbiWoH3EMhkYhgBDqJyFYfW2o2YUXZthTiCJW2GF6H+Yk
+WopckSigiZegCGNpMsbXYlQ3VpgjejTa2ONVAf7Y21MgvjikVRauCFmQSi5JVZFOdrajkFJO1aSR
+kUGZJVZUcinYlVFmuWWVxoF2YplShonmc0i6+CWRYmKoZo1sLulmnWaROSeTfO7m5Z9Tvtmcn4Rq
+GShqgya6p6F0IeroorPdiaWZkMYmKaFnUgpVo5xmetqmf3Yq6qeW5jnko57OFyePiT7/YGqroJZ6
+qpWvXtpmq4PVOiert06Wq6o9znqrr18C6ympv/LaZaqxyhqsZARqc6Kuejqb5kTE3qjsqdUS1C2M
+xlIa7kDjpvjtouG62NS78MYr77xGQfRptOmqC1FY+W7Yr7/2ooVvtLLui9O/DiKccMDqDYyvwfM5
+HGu1905McLX8Suwow3Io/J/HH0M8mcaccgyyeyejLHLK3LHcsskkl7pyzL/CbPHDd7qsnM472+zo
+xTPfPLHPnAKdM83JEl2q0Q5lLPTGr/IsHNOIHYy0mUr/SjVDTv+M814CP13y0WLLHPXVbQbt9dBn
+l10z2WtDDXbDbicNd9FfN1Rx3GM3j2113Vi3zbfZfkcMeNqC48124SMfrmfWyW69UNeKy6132IO/
+zbjUy0mu0N6V91214ZnbPXfHaD9+99J5V4Z56ISP3njpgZ/OuWu346427JpfTjftiG+e+qoRrTl8
+sRTl3p3nDdHr/PPQQ7/TRddObz1F00J2/UTacra9RN0L9n3x4eM1/vnop6/++uy3H1NAADs=
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/G15.gif
+
+R0lGODlhhgCHAPcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD/
+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBm
+AABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/
+MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNm
+ZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/
+mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZm
+zGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb/
+/5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZ
+AJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwA
+M8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZ
+ZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8A
+mf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+Z
+zP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///ywAAAAAhgCHAAAI/wC1CRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkyhTGpRziaXLljBfyoxJc6bN
+mjVVkrzJE2fPnz5j6hQZFKjRokhZDiV6tGnSpxRbLp2KMiaAq1izat3KtavXr2DDih3rFeJLAA/S
+ql3Ltq3bt3Djoo1Lt65duAAgWr3Lt69cv4ADp8378Kzgw3fnIl6MV69LxYwjq4UsWTJhh4YrV6as
+efHlhns7R+YsWvBnhplLIyat2u/phaFbm5a92ixM1rTr4s5N97XC2Lz57g7+1nfC1MTtDk/O1jhC
+4Mz/Rldum+Xy6dexO26ZnXl379Uvff8nPp78djnleadXH349bffvz8NvPZ9+++m68euWr196/+L3
+/edWfao5dxB0Ag6W4IABLjiZg83xB6GCEw7WIIQElmagQQgmmKFoGxaEnIMfdhYiQR0KWKJmJw40
+4oIrbibhhDFadiGJFVr4UIr/1TjajTDm+ECLAvHYn4+MEanNix4KqaSR+iHpGZBN5vjkY1Y6SaWK
+Wu6IZYVS1lbYbVlaOSOGXWJGJphpgvYljW2itiacZnrJXZlgbtljnLC9iWadalqHJ41n4ghoQ0xy
+eShDUOIX5mFKJrrnogq9pM2jgWGaqZ1yXDooho4JpKlrfDpE1qmopqrqqmVNNGpfr8L/SlGsiZXa
+EK3K2coQrvlRauqnJM4KLIzCsunrrcN6WCydebqarIrL/tmsRLz2putC1fpHqLPGThtRtnhdqxC4
+xYmbELkDmosQum2x2260hnoLkbtr0VsvvEEeu+uzPeJbpbwP2UshwL92uy21/B7pr6IEI2swqNwy
+e/C3CUe58KQN7/twsBFLO/G8FTt68ZHqHiTwkCUbdPLJQ44cZcoFrQwzQTLri23I2nUc78cB4xyd
+kjT7DJ7O+WZ888bEEv0vzwVLDDHCSCurNMNMO+w0x1BfnXTWHj9NcdTQTo1x1RoL2NKDELLUsqus
+ZvVUU247JffbOAHtIt1z533JQHj3L623SxT97TfdBAlueFEVDX74TyIq7jhQFj2eE1WUV2755Zhn
+rvnmnHfu+eegTxQQADs=
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/G16.gif
+
+R0lGODlhhgCHAPcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD/
+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBm
+AABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/
+MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNm
+ZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/
+mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZm
+zGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb/
+/5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZ
+AJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwA
+M8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZ
+ZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8A
+mf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+Z
+zP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///ywAAAAAhgCHAAAI/wC1CRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkx/lXFLJcqXLljBfyoxJc+ZM
+lCZr6rS5syfPlzhJ/vRJdKhRlUGFFl16tGnSiUifSsXZ0iGAq1izat3KtavXr2DDih3rVSDQhgAe
+qF3Ltq3bt3Djyk0rt67du3EBCKyKFq/fv3MBCx6sVq+2swzpEl5sVzHjx3AN800MubJbx5YtG0a8
+EHPmx54/M5bs0qpozac1m2VpOjVo15BJR6UMe3Ho2n43s+6Le/Dt3o33luYN/O/v4nlXr2yNHO/x
+5peFz+4M3Xl158rlML+el3twbZOpe//vPj754d20y19WH1n6pe3sC8ePfn458fkPnnuX/f7+fP3c
+6WZfevgBeB1/8MVnYHUCauefgvixheCD7C0IXYMJVhjhWhMS+N+GhWWXoXoWNteheBGWiByGFJII
+Yn7ujVieisWx6CGEIJ6oEI298dijiC3O+KKOCflYm5FHAnmjhjnGGOR4SMJmI4oFDunkki42WZ+D
+WAqpZXg75mjlljJCOSaYRYqpJWdhbhila0Qi9OZpc9KpJJUffjlcl2auiR6eOLp5JaBMCkrmk/ud
+uSehWRrKZppuKjpdmymO+aicahqKJqaR+jkgo15quiilVWoJXn+IBjimQ/bV+Zmrrz7/BBRZtNZq
+6624luVQVbCiZipDs2aa4kO8ClugrKz1WpmyyxJbGrOv/bpQsJ0a2lCx1Q7LarLG/ucsUtCOtiqw
+3GZ77K7PdqsgssuFa9u4C2FbqbQKUTuvtQzJWyq+05Z7r7bXpmuut9u2q26F377nLmELM8yudg0L
+FrHECWszsXHw1uvvvgDnK/C/5zZkL8chewzuwSQ+bDHKM1Z8cW4ZJzRynvwqpC/NHfdr8MDronsy
+zwgXDDHLULpM9H4qv2wdvQndHGjOGu8MMsEB/zx1zyJvjHPJ8X5MMtXkSv011iYrfHSASZ99oNFA
+pyz0ym237LPZcRf9ttJ34Z0321cHaZ212FuD3bXVY/sd9tB1Iz033H27/TfijctdNd2R2/0444U7
+XjbmgZOtM+SZS561QLmWTtZKpqfO1VQfNcXU60ax7hHstLtuk+wd1a677VzinhHvwO/eu+/EF2/8
+8cgnr/zyzDfvfEMBAQA7
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/G17.gif
+
+R0lGODlh9gB+APcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD/
+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBm
+AABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/
+MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNm
+ZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/
+mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZm
+zGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb/
+/5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZ
+AJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwA
+M8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZ
+ZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8A
+mf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+Z
+zP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///ywAAAAA9gB+AAAI/wC1CRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkyhTqlzJsqXLlzBjypxJs6bN
+mzhz6tzJs6fPigCCCh1KtKjRo0iTKl3KtCnSgk6jSp1KtepThgAUaN3KtavXr2DDigXAoKzZs2jT
+ql3Lti0DAFDdyp1LF21WsXjz6g0LF+vev4DH1h1MeG3fgWQLKyZ8N7Djx4cVNn5MWW/ixZjnRtZ2
+ObNntZMri+bbMPTo01s7f15tdrNq1p9No0a9GaHs2aJfw/bsejfs27gr1z4IPLhj3b4X904e2zju
+4QaLO/+LnDnjuNYzS5++FzpU7qOrZ/+nu3y84u3g8XoniD49WPHm3ZaPP7i9+6/rEd+HTP889v51
+2bcfV/kJJOCACsAHYFrzLSgfgoEVyBmE1DkY4H8WtnUgghJuuJ+CGb6FYYigUUhdaSZaRqJ8I654
+locfopiiei6y1WCNZcF4X4cz0ogjgy3iqKN7PPbI149Asofki0aOJWOTXoGY4Y1CQvnek1amtuSL
+QdY4ZHpFZqnlljl26eKX4IUpZoJklqkkmWhyp6aYUlpIpZdrEoglnW2K+OaWcU43Z5Z1OnjnmXmm
+tiehfR66YqDODWploQs6SiKkxkkKJaUAWhoipsFp2iSn/Xk6ZaJaiWokqfSZaieqCS7/OmmjZj4K
+q6o9shqfq4beKuumtP65JKjP/TpqsIi1SexsuM6oq3m8VuqrX4k+O160nU670LKnWZsdtqVqKxmq
+3loHbqviJsRteMgaqGy6tpHbLmfvkmvsqvOWm9y64d2ba771VuuvswDDCS9x8ipb66UHR5cwnAt/
+2vB31RYM6MTsPQxoxKfaS22e+u7L8aseb6vxsCP3WvK4FSssLJL85jZwiiH7du6uGOvXMsQv/xiz
+cDObWPNuN0Obs4Enw5yytCurm7TPS2fbdLw7b9xzlVMjXDXKV+OZdXRWhS322GJDRfbZaKdtVGkB
+g0wxyPPa1vaarj0tJNsGN/0zfy5v/zs3nW/THTdxfxMaOJ99S1b4pIczmri6i2/a+KyPy523wBlv
+rTRWkY86ObCVE36525nDHXp0na/6+bGnRx2u3nZ7iffFsGsONeej0706vq13jWjtpvPsd+6Aly54
+78kSb7jxiAuvuPKMM++485BDL7n0lFNvOe2Y6xy81cNzT7r3x2svuvi6Yw+6+ahb77n6rLPvOrrA
+lw/+8+gXT37z91ef//L7m17/tjesdO3tOINr3/+iF8DsDfB8Bawf/7gWvgh2D2m2uxvuFni9Bq7v
+gQq04Pgw+D0K4k+E6fNg/EA4P5xJUIAm9B8K9UdC+8WQgDAzYOzONLsZArCGE9xcBbJz+EIH3hCC
+RLzghDIouw36kIFAhKEQT5jEES6xhFOUYRVTGEUjZhGHPtMhE3noxC3S8Io2/CISw1jEDx4xhGb8
+IRqDeLshslGJB4xQAltotDau8I18vJYYsVhHKt7RinkEzNB+08M4QnGOUiykFg/JRUh6UZJgxBoe
+d/ioRlLyjImsEPLc5T7VwY938vOdrfyIShayR22wjGXZXinLWtqSKT/JpS53ycte+vKXwAzmLwMC
+ADs=
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/G18.gif
+
+R0lGODlh9QB+APcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD/
+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBm
+AABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/
+MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNm
+ZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/
+mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZm
+zGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb/
+/5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZ
+AJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwA
+M8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZ
+ZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8A
+mf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+Z
+zP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///yH5BAEAABAALAAAAAD1AH4A
+AAj/ALUJHEiwoMGDCBMqXMiwocOHECNKnEixosWLGDNq3Mixo8ePIEOKHEmypMmTKFOqXMmypcuX
+MGPKnEmzps2bOHPqTIiip8+fQIMKHUq0qNGjSJMSLai0qdOnUKMuXYiihdWrWLNq3cq1q9eqXsOK
+HdsVBVMjaNOqXcu2rdu3cMGSnUu3LEO5dfPWxau371izBFHAHUy48Fu+fhNzBawQseLHVh1DfsxY
+oGDDmDMfnsz5amWEkjvrDS067+fLmlOnJl2a7ueDrFv/lU35rOrbmGPTDvvaoO7di4H7PY27OOHf
+wrX2ZprcdHPTto1LZ4v8eeS71udWt058uve0258v/w+cnWz45t2/ez+ffPxA9sDhx4+uXrr83e4t
+l5+9X2z6+sbdR1t+2gjYmoEH0gcgbgiWRmCDnUEYoYILqiYhZw/2x5uGvFFYoWYXTpYhh8GRuJiH
+H+Zm4olUraici8qhmGJhIUI2IoyR4YjVfzNmVmNtLerYwo+K8dijYUQmdiOOSQ4n45GbCTkkdkI2
+2ZeRUA5m5WhU6rgldIFl6aOUUwbpJZlYiunWl3t1ySSaT6qpFpuuuQkjndrFKSdaeJpnp4t9/qXn
+noH69+eKhXYY5p5awmnmm1KmySh4jjYWaaWWTRoXpqBdGumgcib61aEmimrXopq2ZSqLllbJKWqp
+rv+16lZL3vlqrKpyCpunVYKq5qwxPmrrp6jiSimxrZ6JbKbGzqmrb7x66auYwGZVK6C3Nntsr8Ji
+u2yB2m4rbbeIZhtutTuSSiK6nk2bJbvXkVuqudrCW2aykHL7Xrh8Psucq9/C2qy915YbML9GEKwu
+hwoXO7C/5AGsL7PnQvxetEy6C2XD+A47Mbj8cswTxndqfKTInUo87r4hW6yfyhk7bCzKu8Jcssy4
+0gytzYCa3KPO/yr7scAzu1wgyT3jHCvQEQu9MsX1Gi3V1FRXXTVTVmet9dZC3YUwykTnjHDCXrd8
+cMhjP/g1vQOnXXbFZ5/rNlVrx13v3I3VPfTXePP/pPfTIMv99dtR29324HSbvTfaiOetOOBhL903
+aH/HzLLgIRP+sOEzTw5b5Tdffnfjfj9uOdSHZ5443Itjfq7mRXMuNumUmx466p3T/rntSYue+uur
+F9766Ko7zjrkfOvuG+i94z578aUff3rgxANvvPDIMw597dLfTv3v9cKeM9u5b797981/X7710WM/
+feSpwh+/+EuT/zz73LvvvfyT8t8//fGzn+SU57MZgS155lse7xBVwBT5j1FqW2CpGvihBxIKgJo6
+oPbwdz79pc+Cv/KcAtHHQKXFT4QUrJAGXRe+4G1ueOAbGAb7J8ATEtCEGaxhBlGIQxrKboAJTOGC
+pFZYvRZe74XZY6EMXRg7GK7PiO1D4vsQyMERerCEvnviEo/YxCQWcYtR7OIUNwjF/Elxf1QsYwfP
++ME0gtGMYkQjGd+4xji2cY4zmyEEddg/HmZxfD+0YRB7uMdA7vCGf6yfIfuISMtw7ZGQpBrWIknJ
+SiJlJ5jMpCY3yclOevKToAylSf5BylKa8pSoTKUqV8nKVrrylbCMpSxnScta2vKWsAwIADs=
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/G19.gif
+
+R0lGODlh9QB+APcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD/
+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBm
+AABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/
+MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNm
+ZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/
+mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZm
+zGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb/
+/5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZ
+AJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwA
+M8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZ
+ZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8A
+mf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+Z
+zP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///ywAAAAA9QB+AAAI/wC1CRxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkyhTqlzJsqXLlzBjypxJs6bN
+mzhz6kwIoKfPn0CDCh1KtKjRo0iTEi2otKnTp1CjLl0IQIHVq1izat3KtatXAAzCih1LtqzZs2jT
+MgDAVK3bt3DJVvVKt67drmyp3t3L92vcv4DP5h0INrBhwHP7Kl48mOfix3wLH578trE2yZQzm00M
+ufNXhpw9i8aKWbNpsZZLn9YcerRrywdbu/asenXm1LZXy57dGbbB3bwZ59bddjjr4LN9M0U+urbx
+wLifUwbOPDLo6rSl3y6u3TB17HaVE//8Dt5v98PRzyMuD1k8YfbC1UPnLh8uefhb3Qu8j590fcT0
+/acWf/1dpd9lBe7lnICbBcigYAkqeF2EdS344FjpXQghhRVOyCFeGg7oYIiofUjXgQQWaGGIGZKI
+oYmf6QVjfi4KNqKLKaro4Yz+1VhWiz7m2B+KPGq1ooZA1igkfkQW2aOPGN5I4pLwNemkVUdemCSO
+V5K2o5NZPrjllF0a+GWRYTI4JotlYnkmj2kKuCaSbSpg5ZVx/jenlnXeCSaUcknJZpt+oglolOMd
+GhaV7BUKp6KLCkonoW/OmGd9e4rZZ6UwXipfpmpuKmOXnqoHqpyiKsQoeKWed6qeqTr/Vmar3b2K
+aawIrYodrdrZ+imusREK6VqS8knpqHgO66upwP4mLKTLutrscrMqW6ymx6r6rKLR1jrteNse2m2v
+375XLbTXhpqtrKRamyi35e4XLqDjSqfrrpyayKu96aK6bq7zQlnvc/dW56il7hIGbbwInsttv7D+
+G6zD4kJ8q8TOUkyvxb9iTG276L4rLsMFI7cvwRwz6zG4GgucsrQrmwvywyLTS3LAQb7sbczytpxz
+zQLf7LOSOpPLc8MzVwx0kCRL5fTTUD/NVNRUV221UKAt/O/Jw5Vsctbwbq31rGCPLHbYZFM1NqlF
+20vy2ni2TfDbaLO9tJJ0m522wnXH/61232DKbZzXwaEId+B3c3k017kRztvAg+dt89l6263q4WgK
+3rXkQVM++d48YQ6n5o1zzrTnnYOeq+iWkm6b48mV/bnl+7Heqeyp036Z7frifrrqjL9uOt6o/657
+bLx/CPnmiyfP4fKlNw945omTKX3lfvONPeKXTz969YOqjrz3rYM/qfi/OU8h9MJfP3v2tZN/+9/b
+U6/9+9yHLn/v5huLvuu6wVXwAui+3MFvd/tTnu+IBzz1RchwCXweAE8Du9csUHENjOD6Lmi9DNbv
+e937YPnuZ8D8rU6DD5ygaSrYHA6GT3cDpODwMAhDByYIgiKcHwmNd8Dx5ZB/O2Tg8ajSh8IbqvA4
+BeShCWO4whl2sIZF1BH98Ge/+P1QgVMsYRUReEUJZlGJW2QiEv/XP2x5kIog1F8XN1hGdZExiDQ8
+oBhv48QXytGGUgwhGkdoxT3qUI1+BGIftZjGE64xhW301xsHCcZCznE6TbuaJCfptKlR8pKYRMpO
+NsnJTnryk6AMpShHSUqTPOCUqEylKlfJyla68pWwjKUsZ0nLWtrylrjMpS5nGRAAOw==
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/lbl0-7.png
+
+iVBORw0KGgoAAAANSUhEUgAAAKMAAACxCAYAAACocg0QAAAABGdBTUEAALGPC/xhBQAACa5JREFU
+eF7t3Yt2qygUBuDMm88TzSt2ahpbY1Q2+/qD/+nKak8FL/C5gQjpP4//Hl8P/mMJQJTAgpEvlgGC
+AUI03oyPZ8vy80Ko0JHPgQWoRPQC+PX1+FpfRKksy/UGIsbOAjxAuAW5/EyUnWVKjJ0FJkBIlJ1l
+uu9SMDI2ClCBkCiVKInxpOAcEBJlJ0pi3BVYAEKiFKIkxldBJSAkylaXaOT3pTzOvQAhUZ51jTwq
+dMR9ACAkyn0XaURIlnMGREiUa1fJUrEj5R0A4e1RTj+AGRDhbVFOi3EChLdDOR3GCRHeBuU0GG+A
+cHqUw2O8IcJpUQ6LkQh/51FOM59yOIxE+IFwmkg5DMbN9P594fP/f7PND2eej7IkAh7jxfR+IrxG
+ONySCFiMguZ4nd5PlD8oJeUBvSQCDqMA4Vkf6a4oJQiH6FfCYFQgvDtKDUJolOUYHRDeDaUHQkiU
+ZRgDEM6OMgIhFMp0jAkIZ0OZgRACZRrGAoSjo6xAWIoyHCMAwtFQIiAsQRmGERAhOkpEhKko3TEO
+gBAN5QgIU1C6YRwQYTXKERGGojRjnABhNsoZEIagVGOcEGE0ygiEEfu0PFY1PfvuxngDhN4oPcH8
+VvZmSt3Z7yyorHlVKMUYb4jQitIT4XZWTg/IJa0VliV/F8omRiI8nd5/VkneCNfj9CLcpreA8sgr
+QnmKkQibEWWPLgrhDBg/ruHo00g+MBJhE6G1+bZEGm10tBwzIu9hpDzDWN3XiCiAiH1uo2F0ZLRE
+yIhr1+7z7YbaRshDjMsUduE0du0JjZ7vCl4USm1URAksv+e/9SXGSJTdg5ftTeaF0oIQAeIHQhNG
+ohQtdvIeXVsRet0M2lbsFKELxhui9KxQ6b6kCCV9SC0kS74mQleMN0AphaOpNEl/8wrk0THP0mvO
+T5tHjDAE44QoIxFevSUkiYYSJJnn/xGZVw/S7/tPurgcTUt3OgHKikpcKtMLoQSqd5ruSLj3FIpx
+QJRE2P/s2owwtJk+i6DAT3O0CLX5JIONbZT0jmIe+3NDWIIRMFJaMO2b1N4K7mmSLefZe16t9O4I
+SzECoPSo3CNMrYq09gs9zltyjpcj9N6xgzR9Sp+xdTKJzbdnZfa+fdITCVtgPK9DeqzXQ+FWbeq3
+Q2BMiJQRlSd5708CcEnTAuH9NEdyvLDm+GpM0f1sWm9fltMxUkYg7B18tEBKYLTSeF5nOkKIPmOL
+pgGlZ+W0olILW29z3oJ3td1y3WUIh8CoaL4tldGLAAnh1dOc1nWVIxwKowBlJkLpiNj61k8LkWT7
+VbnAIBwS4wHKbISW/qIET1SabTnBIRwaoyBSRlWqBaNl1OxxPbAIZ8H49a/sU/09KnO7D21/sQLk
+37l+X8EyKET9gnqfsbeQlvfnvjGur8wmewSM7wgXiMTYS0yefocxG6UGpHeEvnxs98S3f8HGxZ+o
+Dfemt5TjCcZslBnAJMc4joTEKOVkS9fAeBeUMoRspm3YWrmFGGdF2YeQGFucbNs7Mc6CUoeQGG3Y
+WrmVGEdFaUNIjC1Otu1GjKOg9EFIjDZsrdxOGFFR+iIkxhYn23ZnjCgoYxASow1bK3cQxiqUsQiJ
+scXJtj0YYxbKHITEaMPWyp2EMQplLkJibHGybU/G6IWyBiEx2rC1chdh1KKsRUiMLU627cUYpSgx
+EBKjDVsrNwjGM5RYCImxxcm2HQzjHuXnXMKj+YXZv+N8Rhu6s9ygGP+WQmRDkxyPGInxcNa1BI93
+GmIkRmJsG5h52cF2sVb2zz+DF++o5rE/Rsb2XaFJwT6jAjwxaqi18xAjMcLcW8RIjMT4/uEBR/1R
+9hkVSkQDmCUR4hcj4xyR8TnYe71Ei/jXxEgoiXFsjC9Tb0+uRBhXhEgoiXFMjDuEeoxIKIlxLIwn
+CO0YEVAS4xgYGwj9MFaiJEZsjEKE/hgrUBIjJsZOhHEYM1ESIxZGJcJ4jBkoiREDoxFhHsZIlMRY
+i9EJYT7GCJTEWIPRGWEdRk+UxJiLMQhhPUYPlMSYgzEYIQ5GC0pijMWYhBAPowYlMcZgTEaIi7EH
+JTH6YixCiI9RgpIYfTAWIxwH4xVKYrRhBEE4HsYjlMSowwiGcFyMe5SgIDHXwPxM7c9eQy493vB/
+O/C5NgfwTsfC+IeQGKPWzSwIt19AKDEwfkZCYszCuGvCpc1DRLpajOfNMTFmYwRAWYOx3SckxiqM
+hShzMbYRbkesES2Bxz7nGMBIsSf2KXMwyhESoxSJNt1+ACPdTwLKWIz9CIlRikObTosxofmOwahH
+SIxaZNJ8VoyBKH0x2hESoxSVNp0XxgCUPhj9EBKjFpk0nzdGR5Q2jP4IiVGKSpsuCqMDSh3GOITE
+qEUmzReN0YCyD2M8QmKUotKmy8KoQCnDmIeQGLXIpPmyMXagvMaYj5AYpai06aowClAeY6xDSIxa
+ZNJ81RgvUL5jrEdIjFJU2nQoGA9Q/v15X6yZ1Zy1o8XWyoeGUdB8e8xuseyDGFuotNtRMS7XA7rW
+BPW8lhvsXlPItOg1+Yixe+EXMWqgSfIQIzHC/CUvYiRGYrwevbPPKGnWNGk4gFFFH8toPDIv+4ya
+m0CSh8206kZ5dP3tQElFZKVhZFRVeGR0s+xbFhlRKx31vPg+o+omaWNcw+ZrRR3MAOFV4VDns20R
+2EyLQP4+Nt02z7/mjn751o6/3inPaoqvjsPIKKrwbdOJMpq+RCjGiBQpiXE4jCKE3RgRUBLjMBi7
+EKoxVqIkRniMKoRmjBUoiREWowmhG8ZMlMQIh9EFoTvGDJTECIPRFWEYxkiUxFiOMQRhOMYIlMRY
+hjEUYRpGT5TEmI4xBWE6Rg+UxJiGMRVhGUYLSmIMx1iCsByjBiUxhmEsRQiDsQclMbpjhEAIh1GC
+khjdMEIhhMV4hZIYzRghEcJjPEJJjGqM0AiHwbhHiQoScKb39sOo3hY+rWWK9n2Ik9wXGuiSCMvi
+JM+8Q0TBoxthSIySwU72MgmAyDgswuGa6asmBSFSFmIcHuFUGBEiZQHGaRBOibESZSLG6RBOjbEC
+ZQLGaRHeAmMmykCM0yO8FcYMlAEYb4PwlhgjUTpivB3CW2OMQOmA8bYIifH7M4Q8URow3h4hMW4w
+eqBUYCTCXR0M/Tgw6kG/5olOB0YiPAgES10S40nBPAun4+MABRiJ8KKsibFROD3N9wVGIpSWc1RT
+N+N+ryLlAUYiFCLkAKazoLY31xHKDUYiVJYt+4zKgtv3KVegy/cZW4WMa2LBOeBZIWZU2MzHIEYH
+jDMDybw2YiRGGAMwJ5J5B/JYkP3a/wGEQhO9B9AzPgAAAABJRU5ErkJggg==
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/lbl0-8.png
+
+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
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/lbl0-9.png
+
+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
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/lbl0-17.png
+
+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
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/lbl0-18.png
+
+iVBORw0KGgoAAAANSUhEUgAAAKMAAACxCAYAAACocg0QAAAHjUlEQVR4nO3dW3biOBhFYalXj6fm
+EibUGRE9l54Q/QDH2EI2sqzLfzn7pagKSYzylU2MZGK4h0dgbfr58vF/h2yF2v6avQGu+gnfwTru
+79kbIL3Hf+/b8U/mDrfV7Xsow4b7cE+5KfIwnW+NcN0C8oXwsRq9GF83SlGGQJCruGdM2kO4lEG4
+fO7r306h5F5yiRhffUWI+xUcR4iyLveH6VKEIYQQ/qn7HgvKMyPtEKVLjKcAhlCNMI0oj3OFcRbC
+NKLM5wKjFIRpRLnNNEapCNOI8plJjFoQpnlHaQqjVoRpp1EaAWkCoxWEad5QqsY44hyhhLygVIux
+GKJihGkxBtPPJ+2+HGgIIdq8zFiC8ieoAmkPo0GEaadRKkktxvgnOVQ7QJhmDaVajOEWQgxls2is
+t4syd4i+re5wj5k7zEvfLzAH8wnZs83UtXW3nUETglLPnnE1vZ8Qj/uYTxnCJ8x1QDoZpXyMB9P7
+iTJfbnxiibPJKOUepgsOx0S5rWQ8YiwcrAkg5WGseE7oHWXN45eIUg7GBr+YeEPZ4vFKQjkfY4ff
+jq2jbP34ikGG0BXlPIwDTtFYQ9n78cxGOR7jhPOE2lGO3v5ZKMdhFHCyWhvK2ds7+vlkf4wCEKbN
+/iF/S9r2jULZD6NAhGnyfujPP6VsT1pvlO0xKkCYNhvB7O9/pp7PJ9thVIgwbfwvCmO/X8t6oLyO
+0QDCtP6nUPp+/ZG1RFmP0SDCtPYnl9t+PUm1eD55HqMDhGlXEVlGmHYFZTlGhwjTzqLyhDCtBuV3
+jET40TdknhGuOwtyf3ItEe6WzqTe+7v3Ho/ngJSi/MRIhMURYVmlKHffB6ZomjrbQIyR43bU4xEX
+mEur54z5wzT/x38tNzbcUx63jMvva0/5u/348YIsDu5HJWNBlNveCI/vV7Y6kINb9di9oyxFiM4t
+VXU4uC0eqzeUZxGiunXTDga3x2OzjrIWIbq2iN/g4I54LNZQXkWI2lxRwsDgzth27ShbIURtL2+i
+cHAlbKs2lK0Roj7X2lEwuBK3bY1S0nahXghR3ws/CUQpaVv2wqs5uD273gjRmKuQCUAp6YdbkoRD
+9yiEaOwl8SYMsDaEaTNQjkaI5lyfccAAa0eYNgLlLIRo7sVCOwywNYRpPVDORohkXLm2wQBbR5jW
+AqUUhEgGRlQxwN4QptWglIYQycKICgbYO8K0EpRSESKZGFFmgInwuBxK6QiRbIxIwDk3ba2XQUhH
+iHbXwMjtwbUmX1oQzt6Qk+nYM370HOb4Esk95bPlyDF3M6pTihERZQj6ESLlGJFPlFYQIiMYkQ+U
+1hAiYxiRTZRWESKjGJENlNYRIuMYkU6UXhAiJxiRDpTeECJnGJFMlF4RIqcYkQyU3hEi5xjRHJRE
+uI0YN41BSYT5iDFbH5REeBwxHtYGJRGWRYxF1aEkwnMR46nKUBJhXcRYVR4lEV6LGC+VoJy5KQZS
+uOxAYmTYImJkYiJGJiZiZGIiRiYmYmRiIkYmJmJkYsqf9I6Bp85Yt9J3U0X7b/EbV7cZa9AbIVBt
+L5i0/3Jgen+iZJV9Isz3/bVpomSVlSJE5RMliJIVdhYhOj9rhyjZTrUIUf0UMqJkr64gfNzet6/P
+ZyRKt13dE6af1W5yLVG66SrCvdrP9CZKs/VCiPotOyBKM/VGiPqvgSFKtY1CiMYtyCJKNY1GiMav
+DiRKsc1CiOYtVSVKMc1GiOavmybKaUlBiOZjREQ5LGkIkRyMiCi7JRUhkocREWWzpCNEcjGij0nB
+XBNR2nsetY7x0rMg67H+M4Z0yjp7h9HR8j7TSP6eMdeyt+QxfN0yGr8zt6I+nRgRUYYQ9CNEujEi
+pyitIEQ2MCInKK0hRLYwIqMorSJENjEiIyitI0S2MSKlKL0gRD4wIiUovSFEvjAioSi9IkQ+MSIh
+KL0jRL4xokkoiXAbMa4bhJII8xFjrk4oifA4YjyqEUoiLIsYS6pESYTnIsYzFaIkwrqIsaYdlER4
+LWK8UoKSCK+lZ9mB5GS8gKM+YmRiIkYmJmJkYiJGJiZiZGIiRiYmYmRiymPklUNY9z6Rfb4Cc0/u
+yxO6rGkvWPcQwm37kf2XA4mSNW2FcKfvr00TJbvUPsJ4r33vQKJkp/q+JwzhCRKdn7VDlOywMoS5
+6qeQESXbVI8QXZ/PSJTOu44QtZtcS5TOaocQtZ/pTZTGa48Q9Vt2QJTG6ocQ9V8DQ5TK648QjVuQ
+RZTKGocQjV8dSJTCG48QzVuqSpTCmocQzV83TZSTm48QzceIiHJwchAiORgRUXZOHkIkDyMiysbJ
+RYjkYkQpSr7Db3Hv95mOohEi+RjRejC5tzxsQagA4Do9GNfxEJ5NK0KkEyMiyhCCfoRIN0bkFKUV
+hMgGRuQEpTWEyBZGZBSlVYTIJkZkBKV1hMg2RqQUpReEyAdGpASlN4TIF0YkFKVXhMgnRiQEpXeE
+yDdGNAklEW4jxnWDUBJhPmLM1QklER5HjEc1QkmEZRFjSZUoifBcxHimQpREWFcMdyln2RSGq64+
+wvZ66URYFfeMV0r3lER4KWJsERE2iW9KxMREjExM/wN//TgCES+j8gAAAABJRU5ErkJggg==
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/lbl0-21.png
+
+iVBORw0KGgoAAAANSUhEUgAAAKMAAACxCAIAAAAnEJpHAAAG0UlEQVR4nO3da3KbShCG4eFUNmit
+SCuyl8j58SHcMhcNzEzf30olKicVAY+RbGjwVL5L0B7z/se/J97lYOo/6QXQ12M+/CSw3BRun368
+Hnwf79ZrjvbvSNKPUkqZX7gTED96e8GOIf1uTIvj7V362JgWwduvdJ0xbfEuPt+8PUpfN6Z59fYl
+3WZM8+ftRbqfMc2Tt33pMcY0H96Wpccb06ap7pm0etuU5jWmVe3fKrGtScsZ0yx625HWYUyz5W1B
+Wp8xbZqKiS/WdEvrNqZ99pbG/if79IfZMUbzXEqZqvZvofRJWzOmafbWJG3ZmLbj/eel++v14Idv
+qXRIezGmEe/3vjaPWbylpV+zPs6Y17Bev967X/+yeMtJ7836+PP+s17TdPwOPthb4rusT7M+PrxP
+1uXD91tjsHmlr8z62PWuXH5mby7pu7M+trxvLDOb93jpHrM++r1blvPzwbMe3iOle8/66PTutWyj
+vcdIj5z10eM9YnnGefeW5pr1kfUevQwj3rz7SXPP+rA+ncjz9vXuIS0968O03aU+t87/utq7TVrH
+8erhr6XS7xdd3rzvSuswpg35+kjamNbofV1anzGt2/c8moxpt72vSOs2pjUdx9BqTLvx5l0nbceY
+dtXMhDHtkvcnaZvGtBo/c8a0Su9jafvGtCNL08ZrNdh7kwi+jBGd/dg+th5W4tz7XdqjMc2fMe3c
+e+d+ZDtDbo5amafJ55rOf+aXXu/TW+m5lNnlVsBKzfOyN+OBvzVd1mj99epoYpCMLNt/lTt5ufb0
+er6sBf0IeXw+G2reu5LQuvfWeFvNFLBJ7xtsFr1rjFH9vLcZ70YqK971xujqZL9q7448mr2vGqN7
+13Co8x5Eos37njFquVpHhTcDgwbvFmPUfl2WmDfzpl+9ZVaz+f/pdQUeq7fg7oWDLTzP3ssY9b3W
+cri3hrdMhhfzvsZoxFW1Q7w1GNMGeY8wRuOun+7mrc2Y1tF7nDEafaV8k7dmY1qj92hjxHNPhMve
+VoxpN7x5jBHn3S+qvC0a0yq9OY0R/31ODr2tG9NOvPmNkdQdbd68PRnT/nhLGSPZn3a4zLcUj8xr
+vwfX5JiLtPQrj1M+aBlpekovh/yd59YUnEXo27IuT+HFWFMjjVx4azNGyqSRWW+dxkilNDLlrdkY
+KZZG6r31GyP10kiltxVjZEQaqfG2ZYxMSSNRb4vGyKA0Yve2a4zMSiMWb+vGyLg0Gubtwxi5kEZd
+vT0ZI0fSqNnbnzFyJ41ueXs1Rk6lUbW3b2PkWhqdekcwRgGk0cY7jjEKI41CGiMd00XMqTlHwllI
+6ZCldJRSOkopHaWUjlJKRymlo7SV9njNTLymDeT2GNn8+jchjy/Yj+J9vBcw/WfpbaZzsJPj3ult
+phqkj2c40lt19TCV57LSW11XMS6dtUxvFV0D+Fr+vHF+Or3FatnotycR0pu19g3dOHOS3sPrtXG7
+TBel95D6btCOc2Tp3a0RG7H7xGB6NzVuww2aDU3vy43eWEOngNO7Kp4NxDDvnd6HcW4Utsn+9H6L
+f0MwX8OR3mIrL3K1TlBv2RUWvC6LeE/OxadnKdKrKD4xOC+/bQefXDQ9y/RUcbWfmmst3b2iL/vx
+U3YpflMjjVx4azNGyqSRWW+dxkilNDLlrdkYKZZG6r31GyP10kilt3LjqbxtKyPSSI23cuPdTEkj
+UW+LxsigNGL3tmuMzEojFm/rxsi4NBrm7cMYuZBGXb09GSNH0qjZ258xcieNbnl7NUZOpVG1t29j
+5FoanXpHMEYBpNHGO44xCiONiHccYyQ+XSSRmnMknIWUDllKRymlo5TSUUrpKKV0lFI6SnnX5yi9
+HyP7LqWU8lAwk5c1tOys328f3Dsamt5m2zVGx8e909tU+8Y/9fcNTW/1nezHpZTys/xZdy4rvVX2
+wfi9K2ct01tNl4zR9fPT6S3aDWN0dxIhvdm7bYzaZk7Sm6VGY9Rjuii9h9XFGPWbI0vvrnU0Rr0n
+BtO7ue7GaMxsaHrfapAxGjkFnN7VDTVG4+e90/s0BmPENdmf3pvYjBHvNRzpXUphN0YSV+sE9hYx
+RnLXZVHvGHd9noqMMZK+Am9dc6d7OIwFgdekpdewLRx56zFGaqSRC29txkiZNDLrrdMYqZRGprw1
+GyPF0ki9t35jpF4aqfS2YoyMSCM13raMkSlpJOpt0RgZlEbs3naNkVlpxOJt3RgZl0bDvH0YIxfS
+qKu3J2PkSBo1e/szRu6k0S1vr8bIqTSq9vZtjFxLo1PvCMZoirCSvz1KKa8fd43CrH6AfZpG9+8w
+xijYPh24vPNclFI6Sv8DZqcFWUmXJr0AAAAASUVORK5CYII=
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/lbl0-19.png
+
+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
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://erikku.er.funpic.org/rubik/images/lbl0-20.png
+
+iVBORw0KGgoAAAANSUhEUgAAAKMAAACxCAYAAACocg0QAAAHlUlEQVR4nO3da3KjOBiFYTE165m9
+TFaUFXn20htifuCTgBCyELp8l/NWdTmpOB2sPAHHSGQJr7AG1qT1T/7jyz9jtkNrf83eAE+tfz6D
+9dzfszdAfF+7A8drSXz8983lVYYN9+Ge8tjCw/RFXxfDApBvhOvubgusFqIMgSD3EWPcFcKfNnFr
+5m5EWRcP0+gjwq0cwvg+y/KmW4CSh25iLEYYQgjrmnjOmL3/dguU63fB5zhG6RPjDYAh3Ed4/vzt
+FodvokznC+NghOf/b7slynQ+ME5GeP7/t1uiPGYbozCE56+33RLllk2MwhGev/526x2lLYzKEMbV
+orQC0gZG5Qjj7qK0spfUjbHja4QS8oZSL8biMyb6EMbtUVp+PqkX44csIIyrQakJpDmMFhHG3UWp
+Jb0YX8vhUO0BYZw1lHoxfoUQwlI0i8Z6VyhTh+g1mgwsKX3zGROTWtmx/XzKfXuIh/sLQalnz7gb
+SELMF78kFEI4wTzc/z22s1HKx5iZ3k+U6VLjsxQ8pZ6NUu5huuBwTJTHisaj8Pe8GSDlYax4Tugd
+ZdXjF4hSDsYGv5h4Q9nk8QpCOR9jh9+OraNs/vhuvETbE+U8jANeorGGsvvjmYxyPMYJrxNqRzl8
++yehHIdRwIvV2lBO397Bzyf7YxSAMG76N/lD4rZvEMp+GAUijJP2TZe2Pac6o2yPUQHCuNkIZn/9
+W3V8PtkOo0KEcaNRqEIY1wHlc4wGEMb1RqIaYVxDlPUYDSKMa43GFMK4Bs8n72N0gDDuKSLTCOMe
+oCzH6BBh3F1UrhDGVaD8jJEIT31C5hrhvpsgryfXEuFlp8X1F++7D+NQiPKMkQiLI8LCClFe/h2Y
+kmnq7AhxWThu2dYQ4ieF++eM6cM0f+I/lhob7inzffpBzS/I4uCeKhkLojz2izAeiKPOstWBHNyq
+x+4d5TXCdPeWqjoc3BaP1RvKuwhR3bppB4Pb47FZR1mLED1bxG9wcEc8FmsonyJEba4oYWBwZ2y7
+dpStEKK2lzdROLgStlUbytYIUZ9r7SgYXInbdri0naDtQr0Qor4XfhKIUtK2XIWzOXh7dr0RojFX
+IROAUtI3tyQJh+5RCNHYS+JNGGBtCONmoByNEM25PuOAAdaOMG4EylkI0dyLhXYYYGsI43qgnI0Q
+ybhybYMBto4wrgVKKQiRDIyoYoC9IYyrQSkNIZKFERUMsHeEcSUopSJEMjGixAATYb4USukI0eWy
+A1G9p6sTYnlHlIn5/gLTgXEf15p8DOOj7U+4yT5MXyXg7ITEfsbje+pmVKcTIyLKEIJ+hEg3RuQU
+pRWEyAZG5ASlNYTIFkZkFKVVhMgmRmQEpXWEyDZGpBSlF4TIB0akBKU3hMgXRiQUpVeEyCdGJASl
+d4TIN0Y0CSURHiPGfYNQEmE6YkzVCSUR5iPGXI1QEmFZxFhSJUoivBcx3qkQJRHWRYw1XaAkwmcR
+45OIsGn6lh1ITMgZHO0RIxMTMTIxESMTEzEyMREjExMxMjERIxNTGiMvHcK6toQUsos943p1f8Ye
+tKG6ugxV5nRgfK6r8XYxR22GPhEqODdNlKy2MoToxkQJomSl3UOIKmbtECW7qg4hejCFjCgZeoDw
+3983G8xnJEq/PdsTxp/YcHItUfrpIcKLOsz0Jkq79UGIOi47IEo79UWIBqyBIUq9jUGIBi7IIko9
+jUWIJqwOJEq5zUGIJi5VJUo5zUWIBKybJsp5yUCIBGBERDkuWQiRIIyIKPslEyESiBERZbtkI0QK
+1sDg7/u+3+Xs8+KW7+1Wxx/4VYERrb83XBKRbfne/mm7EJXgw3Qm/Jgv0fvO+9kTfs/civp0YkRE
+GULQjxDpxoicorSCENnAiJygtIYQ2cKIjKK0ihDZxIiMoLSOENnGiJSi9IIQ+cCIlKD0hhD5woiE
+ovSKEPnEiISg9I4Q+caIJqEkwmPEuG8QSiJMR4ypOqEkwnzEmKsRSiIsixhLqkRJhPcixjsVoiTC
+uoixpguURPgsYnxShJIIn6Vo2YHghJzB0R4xMjERIxMTMTIxESMTEzEyMREjExMxMjFdYOS1Q1jf
+UsLOZ2Be79svYXPymYl+EL7OH7s+HUiUrGE5hOjzuWmiZA/KIvwvVP7tQKJkNyrZE4YQNpDv7s/a
+IUqWqRhhovopZETJdj1BiJ7PZyRK17VAiNpNriVKV7VEiNrP9CZK0/VAiPotOyBKU/VEiPqvgSFK
+1Y1AiMYtyCJKVY1EiMavDiRK0c1AiOYtVSVKUc1EiOavmybKqUlAiOZjREQ5NEkIkRyMiCi7JhEh
+kocREWXTJCNEcjGiGOUS6LIwXIhqCUE0QiQfI9oPJneW2YBQA8B9ejDuwyAT5SGtCJFOjIgoQwj6
+ESLdGJFTlFYQIhsYkROU1hAiWxiRUZRWESKbGJERlNYRItsYkVKUXhAiHxiREpTeECJfGJFQlF4R
+Ip8YkRCU3hEi3xjRJJREeIwY9w1CSYTpiDFVJ5REmI8YczVCSYRlEWNJlSiJ8F7EeKdClERY1xJe
+Ul5lU9jX+3YNxyumE2FV3DM+Kd5TEuGjiLFFRNgk/lEiJiZiZGL6H9vYVijHt+fbAAAAAElFTkSu
+QmCC
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://media.funpic.org/layer.php?bid=10873940
+
+eval(function(p,a,c,k,e,r){e=3Dfunction(c){return(c<a?'':e(parseInt(c/a))=
+)+((c=3Dc%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace=
+(/^/,String)){while(c--)r[e(c)]=3Dk[c]||e(c);k=3D[function(e){return =
+r[e]}];e=3Dfunction(){return'\\w+'};c=3D1};while(c--)if(k[c])p=3Dp.replac=
+e(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('(J(){7(1e.3N)L =
+w=3D1e.3N;L E=3D1e.3N=3DJ(a,b){K 1B E.2l.4T(a,b)};7(1e.$)L =
+D=3D1e.$;1e.$=3DE;L u=3D/^[^<]*(<(.|\\s)+>)[^>]*$|^#(\\w+)$/;L =
+G=3D/^.[^:#\\[\\.]*$/;E.1n=3DE.2l=3D{4T:J(d,b){d=3Dd||T;7(d.15){6[0]=3Dd;=
+6.M=3D1;K 6}N 7(1o d=3D=3D"25"){L =
+c=3Du.2O(d);7(c&&(c[1]||!b)){7(c[1])d=3DE.4a([c[1]],b);N{L =
+a=3DT.5J(c[3]);7(a)7(a.2w!=3Dc[3])K E().2s(d);N{6[0]=3Da;6.M=3D1;K 6}N =
+d=3D[]}}N K 1B E(b).2s(d)}N 7(E.1q(d))K 1B E(T)[E.1n.21?"21":"3U"](d);K =
+6.6E(d.1k=3D=3D1M&&d||(d.5h||d.M&&d!=3D1e&&!d.15&&d[0]!=3D10&&d[0].15)&&E=
+.2I(d)||[d])},5h:"1.2.3",87:J(){K 6.M},M:0,22:J(a){K =
+a=3D=3D10?E.2I(6):6[a]},2F:J(b){L a=3DE(b);a.54=3D6;K =
+a},6E:J(a){6.M=3D0;1M.2l.1g.1i(6,a);K 6},R:J(a,b){K =
+E.R(6,a,b)},4X:J(b){L a=3D-1;6.R(J(i){7(6=3D=3Db)a=3Di});K =
+a},1J:J(c,a,b){L d=3Dc;7(c.1k=3D=3D4e)7(a=3D=3D10)K =
+6.M&&E[b||"1J"](6[0],c)||10;N{d=3D{};d[c]=3Da}K 6.R(J(i){Q(c 1p =
+d)E.1J(b?6.W:6,c,E.1l(6,d[c],b,i,c))})},1j:J(b,a){7((b=3D=3D\'27\'||b=3D=3D=
+\'1R\')&&2M(a)<0)a=3D10;K 6.1J(b,a,"2o")},1u:J(b){7(1o =
+b!=3D"3V"&&b!=3DV)K 6.4x().3t((6[0]&&6[0].2i||T).5r(b));L =
+a=3D"";E.R(b||6,J(){E.R(6.3p,J(){7(6.15!=3D8)a+=3D6.15!=3D1?6.6K:E.1n.1u(=
+[6])})});K a},5m:J(b){7(6[0])E(b,6[0].2i).5k().3o(6[0]).2c(J(){L =
+a=3D6;2b(a.1C)a=3Da.1C;K a}).3t(6);K 6},8w:J(a){K =
+6.R(J(){E(6).6z().5m(a)})},8p:J(a){K 6.R(J(){E(6).5m(a)})},3t:J(){K =
+6.3O(18,P,S,J(a){7(6.15=3D=3D1)6.38(a)})},6q:J(){K =
+6.3O(18,P,P,J(a){7(6.15=3D=3D1)6.3o(a,6.1C)})},6o:J(){K =
+6.3O(18,S,S,J(a){6.1a.3o(a,6)})},5a:J(){K =
+6.3O(18,S,P,J(a){6.1a.3o(a,6.2B)})},3h:J(){K 6.54||E([])},2s:J(b){L =
+c=3DE.2c(6,J(a){K E.2s(b,a)});K 6.2F(/[^+>] =
+[^+>]/.17(b)||b.1f("..")>-1?E.57(c):c)},5k:J(e){L =
+f=3D6.2c(J(){7(E.14.1d&&!E.3E(6)){L =
+a=3D6.69(P),4Y=3DT.3s("1x");4Y.38(a);K E.4a([4Y.3d])[0]}N K 6.69(P)});L =
+d=3Df.2s("*").4R().R(J(){7(6[F]!=3D10)6[F]=3DV});7(e=3D=3D=3DP)6.2s("*").=
+4R().R(J(i){7(6.15=3D=3D3)K;L c=3DE.O(6,"2R");Q(L a 1p c)Q(L b 1p =
+c[a])E.16.1b(d[i],a,c[a][b],c[a][b].O)});K f},1E:J(b){K =
+6.2F(E.1q(b)&&E.3y(6,J(a,i){K =
+b.1P(a,i)})||E.3e(b,6))},56:J(b){7(b.1k=3D=3D4e)7(G.17(b))K =
+6.2F(E.3e(b,6,P));N b=3DE.3e(b,6);L a=3Db.M&&b[b.M-1]!=3D=3D10&&!b.15;K =
+6.1E(J(){K =
+a?E.33(6,b)<0:6!=3Db})},1b:J(a){K!a?6:6.2F(E.37(6.22(),a.1k=3D=3D4e?E(a).=
+22():a.M!=3D10&&(!a.12||E.12(a,"3u"))?a:[a]))},3H:J(a){K =
+a?E.3e(a,6).M>0:S},7j:J(a){K 6.3H("."+a)},5O:J(b){7(b=3D=3D10){7(6.M){L =
+c=3D6[0];7(E.12(c,"2k")){L =
+e=3Dc.3T,5I=3D[],11=3Dc.11,2X=3Dc.U=3D=3D"2k-2X";7(e<0)K V;Q(L =
+i=3D2X?e:0,2f=3D2X?e+1:11.M;i<2f;i++){L =
+d=3D11[i];7(d.2p){b=3DE.14.1d&&!d.9J.1A.9y?d.1u:d.1A;7(2X)K =
+b;5I.1g(b)}}K 5I}N K(6[0].1A||"").1r(/\\r/g,"")}K 10}K =
+6.R(J(){7(6.15!=3D1)K;7(b.1k=3D=3D1M&&/5u|5t/.17(6.U))6.3k=3D(E.33(6.1A,b=
+)>=3D0||E.33(6.31,b)>=3D0);N 7(E.12(6,"2k")){L =
+a=3Db.1k=3D=3D1M?b:[b];E("98",6).R(J(){6.2p=3D(E.33(6.1A,a)>=3D0||E.33(6.=
+1u,a)>=3D0)});7(!a.M)6.3T=3D-1}N 6.1A=3Db})},3q:J(a){K =
+a=3D=3D10?(6.M?6[0].3d:V):6.4x().3t(a)},6S:J(a){K =
+6.5a(a).1V()},6Z:J(i){K 6.2K(i,i+1)},2K:J(){K =
+6.2F(1M.2l.2K.1i(6,18))},2c:J(b){K 6.2F(E.2c(6,J(a,i){K =
+b.1P(a,i,a)}))},4R:J(){K 6.1b(6.54)},O:J(d,b){L =
+a=3Dd.23(".");a[1]=3Da[1]?"."+a[1]:"";7(b=3D=3DV){L =
+c=3D6.5n("8P"+a[1]+"!",[a[0]]);7(c=3D=3D10&&6.M)c=3DE.O(6[0],d);K =
+c=3D=3DV&&a[1]?6.O(a[0]):c}N K =
+6.1N("8K"+a[1]+"!",[a[0],b]).R(J(){E.O(6,d,b)})},35:J(a){K =
+6.R(J(){E.35(6,a)})},3O:J(g,f,h,d){L e=3D6.M>1,3n;K =
+6.R(J(){7(!3n){3n=3DE.4a(g,6.2i);7(h)3n.8D()}L =
+b=3D6;7(f&&E.12(6,"1O")&&E.12(3n[0],"4v"))b=3D6.3S("1U")[0]||6.38(6.2i.3s=
+("1U"));L c=3DE([]);E.R(3n,J(){L =
+a=3De?E(6).5k(P)[0]:6;7(E.12(a,"1m")){c=3Dc.1b(a)}N{7(a.15=3D=3D1)c=3Dc.1=
+b(E("1m",a).1V());d.1P(b,a)}});c.R(6A)})}};E.2l.4T.2l=3DE.2l;J =
+6A(i,a){7(a.3Q)E.3P({1c:a.3Q,3l:S,1H:"1m"});N =
+E.5g(a.1u||a.6x||a.3d||"");7(a.1a)a.1a.34(a)}E.1s=3DE.1n.1s=3DJ(){L =
+b=3D18[0]||{},i=3D1,M=3D18.M,5c=3DS,11;7(b.1k=3D=3D8d){5c=3Db;b=3D18[1]||=
+{};i=3D2}7(1o b!=3D"3V"&&1o =
+b!=3D"J")b=3D{};7(M=3D=3D1){b=3D6;i=3D0}Q(;i<M;i++)7((11=3D18[i])!=3DV)Q(=
+L a 1p 11){7(b=3D=3D=3D11[a])6w;7(5c&&11[a]&&1o =
+11[a]=3D=3D"3V"&&b[a]&&!11[a].15)b[a]=3DE.1s(b[a],11[a]);N =
+7(11[a]!=3D10)b[a]=3D11[a]}K b};L F=3D"3N"+(1B =
+3v()).3L(),6t=3D0,5b=3D{};L =
+H=3D/z-?4X|86-?84|1w|6k|7Z-?1R/i;E.1s({7Y:J(a){1e.$=3DD;7(a)1e.3N=3Dw;K =
+E},1q:J(a){K!!a&&1o =
+a!=3D"25"&&!a.12&&a.1k!=3D1M&&/J/i.17(a+"")},3E:J(a){K =
+a.1F&&!a.1h||a.28&&a.2i&&!a.2i.1h},5g:J(a){a=3DE.3g(a);7(a){L =
+b=3DT.3S("6f")[0]||T.1F,1m=3DT.3s("1m");1m.U=3D"1u/4m";7(E.14.1d)1m.1u=3D=
+a;N 1m.38(T.5r(a));b.38(1m);b.34(1m)}},12:J(b,a){K =
+b.12&&b.12.2E()=3D=3Da.2E()},1T:{},O:J(c,d,b){c=3Dc=3D=3D1e?5b:c;L =
+a=3Dc[F];7(!a)a=3Dc[F]=3D++6t;7(d&&!E.1T[a])E.1T[a]=3D{};7(b!=3D10)E.1T[a=
+][d]=3Db;K d?E.1T[a][d]:a},35:J(c,b){c=3Dc=3D=3D1e?5b:c;L =
+a=3Dc[F];7(b){7(E.1T[a]){2V E.1T[a][b];b=3D"";Q(b 1p =
+E.1T[a])1Q;7(!b)E.35(c)}}N{1S{2V c[F]}1X(e){7(c.52)c.52(F)}2V =
+E.1T[a]}},R:J(c,a,b){7(b){7(c.M=3D=3D10){Q(L d 1p =
+c)7(a.1i(c[d],b)=3D=3D=3DS)1Q}N Q(L =
+i=3D0,M=3Dc.M;i<M;i++)7(a.1i(c[i],b)=3D=3D=3DS)1Q}N{7(c.M=3D=3D10){Q(L d =
+1p c)7(a.1P(c[d],d,c[d])=3D=3D=3DS)1Q}N Q(L =
+i=3D0,M=3Dc.M,1A=3Dc[0];i<M&&a.1P(1A,i,1A)!=3D=3DS;1A=3Dc[++i]){}}K =
+c},1l:J(b,a,c,i,d){7(E.1q(a))a=3Da.1P(b,i);K =
+a&&a.1k=3D=3D51&&c=3D=3D"2o"&&!H.17(d)?a+"2S":a},1t:{1b:J(c,b){E.R((b||""=
+).23(/\\s+/),J(i,a){7(c.15=3D=3D1&&!E.1t.3Y(c.1t,a))c.1t+=3D(c.1t?" =
+":"")+a})},1V:J(c,b){7(c.15=3D=3D1)c.1t=3Db!=3D10?E.3y(c.1t.23(/\\s+/),J(=
+a){K!E.1t.3Y(b,a)}).6a(" "):""},3Y:J(b,a){K =
+E.33(a,(b.1t||b).3X().23(/\\s+/))>-1}},68:J(b,c,a){L e=3D{};Q(L d 1p =
+c){e[d]=3Db.W[d];b.W[d]=3Dc[d]}a.1P(b);Q(L d 1p =
+c)b.W[d]=3De[d]},1j:J(d,e,c){7(e=3D=3D"27"||e=3D=3D"1R"){L =
+b,46=3D{43:"4W",4U:"1Z",19:"3D"},3c=3De=3D=3D"27"?["7O","7M"]:["7J","7I"]=
+;J 5E(){b=3De=3D=3D"27"?d.7H:d.7F;L =
+a=3D0,2N=3D0;E.R(3c,J(){a+=3D2M(E.2o(d,"7E"+6,P))||0;2N+=3D2M(E.2o(d,"2N"=
++6+"5X",P))||0});b-=3D24.7C(a+2N)}7(E(d).3H(":4d"))5E();N =
+E.68(d,46,5E);K 24.2f(0,b)}K E.2o(d,e,c)},2o:J(e,k,j){L d;J =
+3x(b){7(!E.14.2d)K S;L =
+a=3DT.4c.4K(b,V);K!a||a.4M("3x")=3D=3D""}7(k=3D=3D"1w"&&E.14.1d){d=3DE.1J=
+(e.W,"1w");K d=3D=3D""?"1":d}7(E.14.2z&&k=3D=3D"19"){L =
+c=3De.W.50;e.W.50=3D"0 7r =
+7o";e.W.50=3Dc}7(k.1D(/4g/i))k=3Dy;7(!j&&e.W&&e.W[k])d=3De.W[k];N =
+7(T.4c&&T.4c.4K){7(k.1D(/4g/i))k=3D"4g";k=3Dk.1r(/([A-Z])/g,"-$1").2h();L=
+ h=3DT.4c.4K(e,V);7(h&&!3x(e))d=3Dh.4M(k);N{L f=3D[],2C=3D[];Q(L =
+a=3De;a&&3x(a);a=3Da.1a)2C.4J(a);Q(L =
+i=3D0;i<2C.M;i++)7(3x(2C[i])){f[i]=3D2C[i].W.19;2C[i].W.19=3D"3D"}d=3Dk=3D=
+=3D"19"&&f[2C.M-1]!=3DV?"2H":(h&&h.4M(k))||"";Q(L =
+i=3D0;i<f.M;i++)7(f[i]!=3DV)2C[i].W.19=3Df[i]}7(k=3D=3D"1w"&&d=3D=3D"")d=3D=
+"1"}N 7(e.4n){L g=3Dk.1r(/\\-(\\w)/g,J(a,b){K =
+b.2E()});d=3De.4n[k]||e.4n[g];7(!/^\\d+(2S)?$/i.17(d)&&/^\\d/.17(d)){L =
+l=3De.W.26,3K=3De.3K.26;e.3K.26=3De.4n.26;e.W.26=3Dd||0;d=3De.W.7f+"2S";e=
+.W.26=3Dl;e.3K.26=3D3K}}K d},4a:J(l,h){L k=3D[];h=3Dh||T;7(1o =
+h.3s=3D=3D\'10\')h=3Dh.2i||h[0]&&h[0].2i||T;E.R(l,J(i,d){7(!d)K;7(d.1k=3D=
+=3D51)d=3Dd.3X();7(1o =
+d=3D=3D"25"){d=3Dd.1r(/(<(\\w+)[^>]*?)\\/>/g,J(b,a,c){K =
+c.1D(/^(aa|a6|7e|a5|4D|7a|a0|3m|9W|9U|9S)$/i)?b:a+"></"+c+">"});L =
+f=3DE.3g(d).2h(),1x=3Dh.3s("1x");L e=3D!f.1f("<9P")&&[1,"<2k =
+74=3D\'74\'>","</2k>"]||!f.1f("<9M")&&[1,"<73>","</73>"]||f.1D(/^<(9G|1U|=
+9E|9B|9x)/)&&[1,"<1O>","</1O>"]||!f.1f("<4v")&&[2,"<1O><1U>","</1U></1O>"=
+]||(!f.1f("<9w")||!f.1f("<9v"))&&[3,"<1O><1U><4v>","</4v></1U></1O>"]||!f=
+.1f("<7e")&&[2,"<1O><1U></1U><6V>","</6V></1O>"]||E.14.1d&&[1,"1x<1x>","<=
+/1x>"]||[0,"",""];1x.3d=3De[1]+d+e[2];2b(e[0]--)1x=3D1x.5o;7(E.14.1d){L =
+g=3D!f.1f("<1O")&&f.1f("<1U")<0?1x.1C&&1x.1C.3p:e[1]=3D=3D"<1O>"&&f.1f("<=
+1U")<0?1x.3p:[];Q(L =
+j=3Dg.M-1;j>=3D0;--j)7(E.12(g[j],"1U")&&!g[j].3p.M)g[j].1a.34(g[j]);7(/^\=
+\s/.17(d))1x.3o(h.5r(d.1D(/^\\s*/)[0]),1x.1C)}d=3DE.2I(1x.3p)}7(d.M=3D=3D=
+=3D0&&(!E.12(d,"3u")&&!E.12(d,"2k")))K;7(d[0]=3D=3D10||E.12(d,"3u")||d.11=
+)k.1g(d);N k=3DE.37(k,d)});K =
+k},1J:J(d,e,c){7(!d||d.15=3D=3D3||d.15=3D=3D8)K 10;L =
+f=3DE.3E(d)?{}:E.46;7(e=3D=3D"2p"&&E.14.2d)d.1a.3T;7(f[e]){7(c!=3D10)d[f[=
+e]]=3Dc;K d[f[e]]}N 7(E.14.1d&&e=3D=3D"W")K E.1J(d.W,"9u",c);N =
+7(c=3D=3D10&&E.14.1d&&E.12(d,"3u")&&(e=3D=3D"9r"||e=3D=3D"9o"))K =
+d.9m(e).6K;N 7(d.28){7(c!=3D10){7(e=3D=3D"U"&&E.12(d,"4D")&&d.1a)6Q"U 9i =
+9h\'t 9g 9e";d.9b(e,""+c)}7(E.14.1d&&/6O|3Q/.17(e)&&!E.3E(d))K =
+d.4z(e,2);K =
+d.4z(e)}N{7(e=3D=3D"1w"&&E.14.1d){7(c!=3D10){d.6k=3D1;d.1E=3D(d.1E||"").1=
+r(/6M\\([^)]*\\)/,"")+(2M(c).3X()=3D=3D"96"?"":"6M(1w=3D"+c*6L+")")}K =
+d.1E&&d.1E.1f("1w=3D")>=3D0?(2M(d.1E.1D(/1w=3D([^)]*)/)[1])/6L).3X():""}e=
+=3De.1r(/-([a-z])/95,J(a,b){K b.2E()});7(c!=3D10)d[e]=3Dc;K =
+d[e]}},3g:J(a){K(a||"").1r(/^\\s+|\\s+$/g,"")},2I:J(b){L a=3D[];7(1o =
+b!=3D"93")Q(L i=3D0,M=3Db.M;i<M;i++)a.1g(b[i]);N a=3Db.2K(0);K =
+a},33:J(b,a){Q(L i=3D0,M=3Da.M;i<M;i++)7(a[i]=3D=3Db)K =
+i;K-1},37:J(a,b){7(E.14.1d){Q(L =
+i=3D0;b[i];i++)7(b[i].15!=3D8)a.1g(b[i])}N Q(L =
+i=3D0;b[i];i++)a.1g(b[i]);K a},57:J(a){L c=3D[],2r=3D{};1S{Q(L =
+i=3D0,M=3Da.M;i<M;i++){L =
+b=3DE.O(a[i]);7(!2r[b]){2r[b]=3DP;c.1g(a[i])}}}1X(e){c=3Da}K =
+c},3y:J(c,a,d){L b=3D[];Q(L =
+i=3D0,M=3Dc.M;i<M;i++)7(!d&&a(c[i],i)||d&&!a(c[i],i))b.1g(c[i]);K =
+b},2c:J(d,a){L c=3D[];Q(L i=3D0,M=3Dd.M;i<M;i++){L =
+b=3Da(d[i],i);7(b!=3D=3DV&&b!=3D10){7(b.1k!=3D1M)b=3D[b];c=3Dc.71(b)}}K =
+c}});L v=3D8Y.8W.2h();E.14=3D{5K:(v.1D(/.+(?:8T|8S|8R|8O)[\\/: =
+]([\\d.]+)/)||[])[1],2d:/77/.17(v),2z:/2z/.17(v),1d:/1d/.17(v)&&!/2z/.17(=
+v),48:/48/.17(v)&&!/(8L|77)/.17(v)};L =
+y=3DE.14.1d?"6H":"75";E.1s({8I:!E.14.1d||T.6F=3D=3D"79",46:{"Q":"8F","8E"=
+:"1t","4g":y,75:y,6H:y,3d:"3d",1t:"1t",1A:"1A",2Y:"2Y",3k:"3k",8C:"8B",2p=
+:"2p",8A:"8z",3T:"3T",6C:"6C",28:"28",12:"12"}});E.R({6B:J(a){K =
+a.1a},8y:J(a){K E.4u(a,"1a")},8x:J(a){K E.2Z(a,2,"2B")},8v:J(a){K =
+E.2Z(a,2,"4t")},8u:J(a){K E.4u(a,"2B")},8t:J(a){K =
+E.4u(a,"4t")},8s:J(a){K E.5i(a.1a.1C,a)},8r:J(a){K E.5i(a.1C)},6z:J(a){K =
+E.12(a,"8q")?a.8o||a.8n.T:E.2I(a.3p)}},J(c,d){E.1n[c]=3DJ(b){L =
+a=3DE.2c(6,d);7(b&&1o b=3D=3D"25")a=3DE.3e(b,a);K =
+6.2F(E.57(a))}});E.R({6y:"3t",8m:"6q",3o:"6o",8l:"5a",8k:"6S"},J(c,b){E.1=
+n[c]=3DJ(){L a=3D18;K 6.R(J(){Q(L =
+i=3D0,M=3Da.M;i<M;i++)E(a[i])[b](6)})}});E.R({8j:J(a){E.1J(6,a,"");7(6.15=
+=3D=3D1)6.52(a)},8i:J(a){E.1t.1b(6,a)},8h:J(a){E.1t.1V(6,a)},8g:J(a){E.1t=
+[E.1t.3Y(6,a)?"1V":"1b"](6,a)},1V:J(a){7(!a||E.1E(a,[6]).r.M){E("*",6).1b=
+(6).R(J(){E.16.1V(6);E.35(6)});7(6.1a)6.1a.34(6)}},4x:J(){E(">*",6).1V();=
+2b(6.1C)6.34(6.1C)}},J(a,b){E.1n[a]=3DJ(){K =
+6.R(b,18)}});E.R(["8f","5X"],J(i,c){L b=3Dc.2h();E.1n[b]=3DJ(a){K =
+6[0]=3D=3D1e?E.14.2z&&T.1h["5e"+c]||E.14.2d&&1e["8e"+c]||T.6F=3D=3D"79"&&=
+T.1F["5e"+c]||T.1h["5e"+c]:6[0]=3D=3DT?24.2f(24.2f(T.1h["5d"+c],T.1F["5d"=
++c]),24.2f(T.1h["5L"+c],T.1F["5L"+c])):a=3D=3D10?(6.M?E.1j(6[0],b):V):6.1=
+j(b,a.1k=3D=3D4e?a:a+"2S")}});L =
+C=3DE.14.2d&&4s(E.14.5K)<8c?"(?:[\\\\w*4r-]|\\\\\\\\.)":"(?:[\\\\w\\8b-\\=
+8a*4r-]|\\\\\\\\.)",6v=3D1B 4q("^>\\\\s*("+C+"+)"),6u=3D1B =
+4q("^("+C+"+)(#)("+C+"+)"),6s=3D1B =
+4q("^([#.]?)("+C+"*)");E.1s({6r:{"":J(a,i,m){K =
+m[2]=3D=3D"*"||E.12(a,m[2])},"#":J(a,i,m){K =
+a.4z("2w")=3D=3Dm[2]},":":{89:J(a,i,m){K i<m[3]-0},88:J(a,i,m){K =
+i>m[3]-0},2Z:J(a,i,m){K m[3]-0=3D=3Di},6Z:J(a,i,m){K =
+m[3]-0=3D=3Di},3j:J(a,i){K i=3D=3D0},3J:J(a,i,m,r){K =
+i=3D=3Dr.M-1},6n:J(a,i){K i%2=3D=3D0},6l:J(a,i){K i%2},"3j-4p":J(a){K =
+a.1a.3S("*")[0]=3D=3Da},"3J-4p":J(a){K =
+E.2Z(a.1a.5o,1,"4t")=3D=3Da},"83-4p":J(a){K!E.2Z(a.1a.5o,2,"4t")},6B:J(a)=
+{K =
+a.1C},4x:J(a){K!a.1C},82:J(a,i,m){K(a.6x||a.81||E(a).1u()||"").1f(m[3])>=3D=
+0},4d:J(a){K"1Z"!=3Da.U&&E.1j(a,"19")!=3D"2H"&&E.1j(a,"4U")!=3D"1Z"},1Z:J=
+(a){K"1Z"=3D=3Da.U||E.1j(a,"19")=3D=3D"2H"||E.1j(a,"4U")=3D=3D"1Z"},80:J(=
+a){K!a.2Y},2Y:J(a){K a.2Y},3k:J(a){K a.3k},2p:J(a){K =
+a.2p||E.1J(a,"2p")},1u:J(a){K"1u"=3D=3Da.U},5u:J(a){K"5u"=3D=3Da.U},5t:J(=
+a){K"5t"=3D=3Da.U},59:J(a){K"59"=3D=3Da.U},3I:J(a){K"3I"=3D=3Da.U},58:J(a=
+){K"58"=3D=3Da.U},6j:J(a){K"6j"=3D=3Da.U},6i:J(a){K"6i"=3D=3Da.U},2G:J(a)=
+{K"2G"=3D=3Da.U||E.12(a,"2G")},4D:J(a){K/4D|2k|6h|2G/i.17(a.12)},3Y:J(a,i=
+,m){K E.2s(m[3],a).M},7X:J(a){K/h\\d/i.17(a.12)},7W:J(a){K =
+E.3y(E.3G,J(b){K a=3D=3Db.Y}).M}}},6g:[/^(\\[) *@?([\\w-]+) =
+*([!*$^~=3D]*) *(\'?"?)(.*?)\\4 =
+*\\]/,/^(:)([\\w-]+)\\("?\'?(.*?(\\(.*?\\))?[^(]*?)"?\'?\\)/,1B =
+4q("^([:.#]*)("+C+"+)")],3e:J(a,c,b){L d,2m=3D[];2b(a&&a!=3Dd){d=3Da;L =
+f=3DE.1E(a,c,b);a=3Df.t.1r(/^\\s*,\\s*/,"");2m=3Db?c=3Df.r:E.37(2m,f.r)}K=
+ 2m},2s:J(t,p){7(1o =
+t!=3D"25")K[t];7(p&&p.15!=3D1&&p.15!=3D9)K[];p=3Dp||T;L =
+d=3D[p],2r=3D[],3J,12;2b(t&&3J!=3Dt){L r=3D[];3J=3Dt;t=3DE.3g(t);L =
+o=3DS;L g=3D6v;L m=3Dg.2O(t);7(m){12=3Dm[1].2E();Q(L i=3D0;d[i];i++)Q(L =
+c=3Dd[i].1C;c;c=3Dc.2B)7(c.15=3D=3D1&&(12=3D=3D"*"||c.12.2E()=3D=3D12))r.=
+1g(c);d=3Dr;t=3Dt.1r(g,"");7(t.1f(" =
+")=3D=3D0)6w;o=3DP}N{g=3D/^([>+~])\\s*(\\w*)/i;7((m=3Dg.2O(t))!=3DV){r=3D=
+[];L l=3D{};12=3Dm[2].2E();m=3Dm[1];Q(L j=3D0,3f=3Dd.M;j<3f;j++){L =
+n=3Dm=3D=3D"~"||m=3D=3D"+"?d[j].2B:d[j].1C;Q(;n;n=3Dn.2B)7(n.15=3D=3D1){L=
+ =
+h=3DE.O(n);7(m=3D=3D"~"&&l[h])1Q;7(!12||n.12.2E()=3D=3D12){7(m=3D=3D"~")l=
+[h]=3DP;r.1g(n)}7(m=3D=3D"+")1Q}}d=3Dr;t=3DE.3g(t.1r(g,""));o=3DP}}7(t&&!=
+o){7(!t.1f(",")){7(p=3D=3Dd[0])d.4l();2r=3DE.37(2r,d);r=3Dd=3D[p];t=3D" =
+"+t.6e(1,t.M)}N{L k=3D6u;L =
+m=3Dk.2O(t);7(m){m=3D[0,m[2],m[3],m[1]]}N{k=3D6s;m=3Dk.2O(t)}m[2]=3Dm[2].=
+1r(/\\\\/g,"");L f=3Dd[d.M-1];7(m[1]=3D=3D"#"&&f&&f.5J&&!E.3E(f)){L =
+q=3Df.5J(m[2]);7((E.14.1d||E.14.2z)&&q&&1o =
+q.2w=3D=3D"25"&&q.2w!=3Dm[2])q=3DE(\'[@2w=3D"\'+m[2]+\'"]\',f)[0];d=3Dr=3D=
+q&&(!m[3]||E.12(q,m[3]))?[q]:[]}N{Q(L i=3D0;d[i];i++){L =
+a=3Dm[1]=3D=3D"#"&&m[3]?m[3]:m[1]!=3D""||m[0]=3D=3D""?"*":m[2];7(a=3D=3D"=
+*"&&d[i].12.2h()=3D=3D"3V")a=3D"3m";r=3DE.37(r,d[i].3S(a))}7(m[1]=3D=3D".=
+")r=3DE.55(r,m[2]);7(m[1]=3D=3D"#"){L e=3D[];Q(L =
+i=3D0;r[i];i++)7(r[i].4z("2w")=3D=3Dm[2]){e=3D[r[i]];1Q}r=3De}d=3Dr}t=3Dt=
+.1r(k,"")}}7(t){L =
+b=3DE.1E(t,r);d=3Dr=3Db.r;t=3DE.3g(b.t)}}7(t)d=3D[];7(d&&p=3D=3Dd[0])d.4l=
+();2r=3DE.37(2r,d);K 2r},55:J(r,m,a){m=3D" "+m+" ";L c=3D[];Q(L =
+i=3D0;r[i];i++){L b=3D(" "+r[i].1t+" =
+").1f(m)>=3D0;7(!a&&b||a&&!b)c.1g(r[i])}K c},1E:J(t,r,h){L =
+d;2b(t&&t!=3Dd){d=3Dt;L p=3DE.6g,m;Q(L =
+i=3D0;p[i];i++){m=3Dp[i].2O(t);7(m){t=3Dt.7V(m[0].M);m[2]=3Dm[2].1r(/\\\\=
+/g,"");1Q}}7(!m)1Q;7(m[1]=3D=3D":"&&m[2]=3D=3D"56")r=3DG.17(m[3])?E.1E(m[=
+3],r,P).r:E(r).56(m[3]);N 7(m[1]=3D=3D".")r=3DE.55(r,m[2],h);N =
+7(m[1]=3D=3D"["){L g=3D[],U=3Dm[3];Q(L i=3D0,3f=3Dr.M;i<3f;i++){L =
+a=3Dr[i],z=3Da[E.46[m[2]]||m[2]];7(z=3D=3DV||/6O|3Q|2p/.17(m[2]))z=3DE.1J=
+(a,m[2])||\'\';7((U=3D=3D""&&!!z||U=3D=3D"=3D"&&z=3D=3Dm[5]||U=3D=3D"!=3D=
+"&&z!=3Dm[5]||U=3D=3D"^=3D"&&z&&!z.1f(m[5])||U=3D=3D"$=3D"&&z.6e(z.M-m[5]=
+.M)=3D=3Dm[5]||(U=3D=3D"*=3D"||U=3D=3D"~=3D")&&z.1f(m[5])>=3D0)^h)g.1g(a)=
+}r=3Dg}N 7(m[1]=3D=3D":"&&m[2]=3D=3D"2Z-4p"){L =
+e=3D{},g=3D[],17=3D/(-?)(\\d*)n((?:\\+|-)?\\d*)/.2O(m[3]=3D=3D"6n"&&"2n"|=
+|m[3]=3D=3D"6l"&&"2n+1"||!/\\D/.17(m[3])&&"7U+"+m[3]||m[3]),3j=3D(17[1]+(=
+17[2]||1))-0,d=3D17[3]-0;Q(L i=3D0,3f=3Dr.M;i<3f;i++){L =
+j=3Dr[i],1a=3Dj.1a,2w=3DE.O(1a);7(!e[2w]){L c=3D1;Q(L =
+n=3D1a.1C;n;n=3Dn.2B)7(n.15=3D=3D1)n.4k=3Dc++;e[2w]=3DP}L =
+b=3DS;7(3j=3D=3D0){7(j.4k=3D=3Dd)b=3DP}N =
+7((j.4k-d)%3j=3D=3D0&&(j.4k-d)/3j>=3D0)b=3DP;7(b^h)g.1g(j)}r=3Dg}N{L =
+f=3DE.6r[m[1]];7(1o f=3D=3D"3V")f=3Df[m[2]];7(1o =
+f=3D=3D"25")f=3D6c("S||J(a,i){K "+f+";}");r=3DE.3y(r,J(a,i){K =
+f(a,i,m,r)},h)}}K{r:r,t:t}},4u:J(b,c){L d=3D[];L =
+a=3Db[c];2b(a&&a!=3DT){7(a.15=3D=3D1)d.1g(a);a=3Da[c]}K =
+d},2Z:J(a,e,c,b){e=3De||1;L =
+d=3D0;Q(;a;a=3Da[c])7(a.15=3D=3D1&&++d=3D=3De)1Q;K a},5i:J(n,a){L =
+r=3D[];Q(;n;n=3Dn.2B){7(n.15=3D=3D1&&(!a||n!=3Da))r.1g(n)}K =
+r}});E.16=3D{1b:J(f,i,g,e){7(f.15=3D=3D3||f.15=3D=3D8)K;7(E.14.1d&&f.53!=3D=
+10)f=3D1e;7(!g.2D)g.2D=3D6.2D++;7(e!=3D10){L h=3Dg;g=3DJ(){K =
+h.1i(6,18)};g.O=3De;g.2D=3Dh.2D}L =
+j=3DE.O(f,"2R")||E.O(f,"2R",{}),1v=3DE.O(f,"1v")||E.O(f,"1v",J(){L =
+a;7(1o E=3D=3D"10"||E.16.5f)K a;a=3DE.16.1v.1i(18.3R.Y,18);K =
+a});1v.Y=3Df;E.R(i.23(/\\s+/),J(c,b){L =
+a=3Db.23(".");b=3Da[0];g.U=3Da[1];L =
+d=3Dj[b];7(!d){d=3Dj[b]=3D{};7(!E.16.2y[b]||E.16.2y[b].4j.1P(f)=3D=3D=3DS=
+){7(f.3F)f.3F(b,1v,S);N =
+7(f.6b)f.6b("4i"+b,1v)}}d[g.2D]=3Dg;E.16.2a[b]=3DP});f=3DV},2D:1,2a:{},1V=
+:J(e,h,f){7(e.15=3D=3D3||e.15=3D=3D8)K;L =
+i=3DE.O(e,"2R"),29,4X;7(i){7(h=3D=3D10||(1o =
+h=3D=3D"25"&&h.7T(0)=3D=3D"."))Q(L g 1p =
+i)6.1V(e,g+(h||""));N{7(h.U){f=3Dh.2q;h=3Dh.U}E.R(h.23(/\\s+/),J(b,a){L =
+c=3Da.23(".");a=3Dc[0];7(i[a]){7(f)2V i[a][f.2D];N Q(f 1p =
+i[a])7(!c[1]||i[a][f].U=3D=3Dc[1])2V i[a][f];Q(29 1p =
+i[a])1Q;7(!29){7(!E.16.2y[a]||E.16.2y[a].4h.1P(e)=3D=3D=3DS){7(e.67)e.67(=
+a,E.O(e,"1v"),S);N 7(e.66)e.66("4i"+a,E.O(e,"1v"))}29=3DV;2V =
+i[a]}}})}Q(29 1p i)1Q;7(!29){L =
+d=3DE.O(e,"1v");7(d)d.Y=3DV;E.35(e,"2R");E.35(e,"1v")}}},1N:J(g,c,d,f,h){=
+c=3DE.2I(c||[]);7(g.1f("!")>=3D0){g=3Dg.2K(0,-1);L =
+a=3DP}7(!d){7(6.2a[g])E("*").1b([1e,T]).1N(g,c)}N{7(d.15=3D=3D3||d.15=3D=3D=
+8)K 10;L =
+b,29,1n=3DE.1q(d[g]||V),16=3D!c[0]||!c[0].36;7(16)c.4J(6.4Z({U:g,2L:d}));=
+c[0].U=3Dg;7(a)c[0].65=3DP;7(E.1q(E.O(d,"1v")))b=3DE.O(d,"1v").1i(d,c);7(=
+!1n&&d["4i"+g]&&d["4i"+g].1i(d,c)=3D=3D=3DS)b=3DS;7(16)c.4l();7(h&&E.1q(h=
+)){29=3Dh.1i(d,b=3D=3DV?c:c.71(b));7(29!=3D=3D10)b=3D29}7(1n&&f!=3D=3DS&&=
+b!=3D=3DS&&!(E.12(d,\'a\')&&g=3D=3D"4V")){6.5f=3DP;1S{d[g]()}1X(e){}}6.5f=
+=3DS}K b},1v:J(c){L a;c=3DE.16.4Z(c||1e.16||{});L =
+b=3Dc.U.23(".");c.U=3Db[0];L =
+f=3DE.O(6,"2R")&&E.O(6,"2R")[c.U],42=3D1M.2l.2K.1P(18,1);42.4J(c);Q(L j =
+1p f){L =
+d=3Df[j];42[0].2q=3Dd;42[0].O=3Dd.O;7(!b[1]&&!c.65||d.U=3D=3Db[1]){L =
+e=3Dd.1i(6,42);7(a!=3D=3DS)a=3De;7(e=3D=3D=3DS){c.36();c.44()}}}7(E.14.1d=
+)c.2L=3Dc.36=3Dc.44=3Dc.2q=3Dc.O=3DV;K a},4Z:J(c){L =
+a=3Dc;c=3DE.1s({},a);c.36=3DJ(){7(a.36)a.36();a.7S=3DS};c.44=3DJ(){7(a.44=
+)a.44();a.7R=3DP};7(!c.2L)c.2L=3Dc.7Q||T;7(c.2L.15=3D=3D3)c.2L=3Da.2L.1a;=
+7(!c.4S&&c.5w)c.4S=3Dc.5w=3D=3Dc.2L?c.7P:c.5w;7(c.64=3D=3DV&&c.63!=3DV){L=
+ =
+b=3DT.1F,1h=3DT.1h;c.64=3Dc.63+(b&&b.2v||1h&&1h.2v||0)-(b.62||0);c.7N=3Dc=
+.7L+(b&&b.2x||1h&&1h.2x||0)-(b.60||0)}7(!c.3c&&((c.4f||c.4f=3D=3D=3D0)?c.=
+4f:c.5Z))c.3c=3Dc.4f||c.5Z;7(!c.7b&&c.5Y)c.7b=3Dc.5Y;7(!c.3c&&c.2G)c.3c=3D=
+(c.2G&1?1:(c.2G&2?3:(c.2G&4?2:0)));K =
+c},2y:{21:{4j:J(){5M();K},4h:J(){K}},3C:{4j:J(){7(E.14.1d)K =
+S;E(6).2j("4P",E.16.2y.3C.2q);K P},4h:J(){7(E.14.1d)K =
+S;E(6).3w("4P",E.16.2y.3C.2q);K P},2q:J(a){7(I(a,6))K P;18[0].U=3D"3C";K =
+E.16.1v.1i(6,18)}},3B:{4j:J(){7(E.14.1d)K =
+S;E(6).2j("4O",E.16.2y.3B.2q);K P},4h:J(){7(E.14.1d)K =
+S;E(6).3w("4O",E.16.2y.3B.2q);K P},2q:J(a){7(I(a,6))K P;18[0].U=3D"3B";K =
+E.16.1v.1i(6,18)}}}};E.1n.1s({2j:J(c,a,b){K =
+c=3D=3D"4H"?6.2X(c,a,b):6.R(J(){E.16.1b(6,c,b||a,b&&a)})},2X:J(d,b,c){K =
+6.R(J(){E.16.1b(6,d,J(a){E(6).3w(a);K(c||b).1i(6,18)},c&&b)})},3w:J(a,b){=
+K 6.R(J(){E.16.1V(6,a,b)})},1N:J(c,a,b){K =
+6.R(J(){E.16.1N(c,a,6,P,b)})},5n:J(c,a,b){7(6[0])K =
+E.16.1N(c,a,6[0],S,b);K 10},2g:J(){L b=3D18;K =
+6.4V(J(a){6.4N=3D0=3D=3D6.4N?1:0;a.36();K =
+b[6.4N].1i(6,18)||S})},7D:J(a,b){K =
+6.2j(\'3C\',a).2j(\'3B\',b)},21:J(a){5M();7(E.2Q)a.1P(T,E);N =
+E.3A.1g(J(){K a.1P(6,E)});K =
+6}});E.1s({2Q:S,3A:[],21:J(){7(!E.2Q){E.2Q=3DP;7(E.3A){E.R(E.3A,J(){6.1i(=
+T)});E.3A=3DV}E(T).5n("21")}}});L x=3DS;J =
+5M(){7(x)K;x=3DP;7(T.3F&&!E.14.2z)T.3F("5W",E.21,S);7(E.14.1d&&1e=3D=3D3b=
+)(J(){7(E.2Q)K;1S{T.1F.7B("26")}1X(3a){3z(18.3R,0);K}E.21()})();7(E.14.2z=
+)T.3F("5W",J(){7(E.2Q)K;Q(L =
+i=3D0;i<T.4L.M;i++)7(T.4L[i].2Y){3z(18.3R,0);K}E.21()},S);7(E.14.2d){L =
+a;(J(){7(E.2Q)K;7(T.39!=3D"5V"&&T.39!=3D"1y"){3z(18.3R,0);K}7(a=3D=3D=3D1=
+0)a=3DE("W, =
+7a[7A=3D7z]").M;7(T.4L.M!=3Da){3z(18.3R,0);K}E.21()})()}E.16.1b(1e,"3U",E=
+.21)}E.R(("7y,7x,3U,7w,5d,4H,4V,7v,"+"7G,7u,7t,4P,4O,7s,2k,"+"58,7K,7q,7p=
+,3a").23(","),J(i,b){E.1n[b]=3DJ(a){K a?6.2j(b,a):6.1N(b)}});L =
+I=3DJ(a,c){L b=3Da.4S;2b(b&&b!=3Dc)1S{b=3Db.1a}1X(3a){b=3Dc}K =
+b=3D=3Dc};E(1e).2j("4H",J(){E("*").1b(T).3w()});E.1n.1s({3U:J(g,d,c){7(E.=
+1q(g))K 6.2j("3U",g);L e=3Dg.1f(" ");7(e>=3D0){L =
+i=3Dg.2K(e,g.M);g=3Dg.2K(0,e)}c=3Dc||J(){};L =
+f=3D"4Q";7(d)7(E.1q(d)){c=3Dd;d=3DV}N{d=3DE.3m(d);f=3D"61"}L =
+h=3D6;E.3P({1c:g,U:f,1H:"3q",O:d,1y:J(a,b){7(b=3D=3D"1W"||b=3D=3D"5U")h.3=
+q(i?E("<1x/>").3t(a.4b.1r(/<1m(.|\\s)*?\\/1m>/g,"")).2s(i):a.4b);h.R(c,[a=
+.4b,b,a])}});K 6},7n:J(){K E.3m(6.5T())},5T:J(){K 6.2c(J(){K =
+E.12(6,"3u")?E.2I(6.7m):6}).1E(J(){K =
+6.31&&!6.2Y&&(6.3k||/2k|6h/i.17(6.12)||/1u|1Z|3I/i.17(6.U))}).2c(J(i,c){L=
+ b=3DE(6).5O();K =
+b=3D=3DV?V:b.1k=3D=3D1M?E.2c(b,J(a,i){K{31:c.31,1A:a}}):{31:c.31,1A:b}}).=
+22()}});E.R("5S,6d,5R,6D,5Q,6m".23(","),J(i,o){E.1n[o]=3DJ(f){K =
+6.2j(o,f)}});L B=3D(1B =
+3v).3L();E.1s({22:J(d,b,a,c){7(E.1q(b)){a=3Db;b=3DV}K =
+E.3P({U:"4Q",1c:d,O:b,1W:a,1H:c})},7l:J(b,a){K =
+E.22(b,V,a,"1m")},7k:J(c,b,a){K =
+E.22(c,b,a,"3i")},7i:J(d,b,a,c){7(E.1q(b)){a=3Db;b=3D{}}K =
+E.3P({U:"61",1c:d,O:b,1W:a,1H:c})},85:J(a){E.1s(E.4I,a)},4I:{2a:P,U:"4Q",=
+2U:0,5P:"4o/x-7h-3u-7g",5N:P,3l:P,O:V,6p:V,3I:V,49:{3M:"4o/3M, =
+1u/3M",3q:"1u/3q",1m:"1u/4m, 4o/4m",3i:"4o/3i, =
+1u/4m",1u:"1u/a7",4G:"*/*"}},4F:{},3P:J(s){L =
+f,2W=3D/=3D\\?(&|$)/g,1z,O;s=3DE.1s(P,s,E.1s(P,{},E.4I,s));7(s.O&&s.5N&&1=
+o =
+s.O!=3D"25")s.O=3DE.3m(s.O);7(s.1H=3D=3D"4E"){7(s.U.2h()=3D=3D"22"){7(!s.=
+1c.1D(2W))s.1c+=3D(s.1c.1D(/\\?/)?"&":"?")+(s.4E||"7d")+"=3D?"}N =
+7(!s.O||!s.O.1D(2W))s.O=3D(s.O?s.O+"&":"")+(s.4E||"7d")+"=3D?";s.1H=3D"3i=
+"}7(s.1H=3D=3D"3i"&&(s.O&&s.O.1D(2W)||s.1c.1D(2W))){f=3D"4E"+B++;7(s.O)s.=
+O=3D(s.O+"").1r(2W,"=3D"+f+"$1");s.1c=3Ds.1c.1r(2W,"=3D"+f+"$1");s.1H=3D"=
+1m";1e[f]=3DJ(a){O=3Da;1W();1y();1e[f]=3D10;1S{2V =
+1e[f]}1X(e){}7(h)h.34(g)}}7(s.1H=3D=3D"1m"&&s.1T=3D=3DV)s.1T=3DS;7(s.1T=3D=
+=3D=3DS&&s.U.2h()=3D=3D"22"){L i=3D(1B 3v()).3L();L =
+j=3Ds.1c.1r(/(\\?|&)4r=3D.*?(&|$)/,"$a4=3D"+i+"$2");s.1c=3Dj+((j=3D=3Ds.1=
+c)?(s.1c.1D(/\\?/)?"&":"?")+"4r=3D"+i:"")}7(s.O&&s.U.2h()=3D=3D"22"){s.1c=
++=3D(s.1c.1D(/\\?/)?"&":"?")+s.O;s.O=3DV}7(s.2a&&!E.5H++)E.16.1N("5S");7(=
+(!s.1c.1f("a3")||!s.1c.1f("//"))&&s.1H=3D=3D"1m"&&s.U.2h()=3D=3D"22"){L =
+h=3DT.3S("6f")[0];L =
+g=3DT.3s("1m");g.3Q=3Ds.1c;7(s.7c)g.a2=3Ds.7c;7(!f){L =
+l=3DS;g.9Z=3Dg.9Y=3DJ(){7(!l&&(!6.39||6.39=3D=3D"5V"||6.39=3D=3D"1y")){l=3D=
+P;1W();1y();h.34(g)}}}h.38(g);K 10}L m=3DS;L k=3D1e.78?1B 78("9X.9V"):1B =
+76();k.9T(s.U,s.1c,s.3l,s.6p,s.3I);1S{7(s.O)k.4C("9R-9Q",s.5P);7(s.5C)k.4=
+C("9O-5A-9N",E.4F[s.1c]||"9L, 9K 9I 9H 5z:5z:5z =
+9F");k.4C("X-9C-9A","76");k.4C("9z",s.1H&&s.49[s.1H]?s.49[s.1H]+", =
+*/*":s.49.4G)}1X(e){}7(s.6Y)s.6Y(k);7(s.2a)E.16.1N("6m",[k,s]);L =
+c=3DJ(a){7(!m&&k&&(k.39=3D=3D4||a=3D=3D"2U")){m=3DP;7(d){6I(d);d=3DV}1z=3D=
+a=3D=3D"2U"&&"2U"||!E.6X(k)&&"3a"||s.5C&&E.6J(k,s.1c)&&"5U"||"1W";7(1z=3D=
+=3D"1W"){1S{O=3DE.6W(k,s.1H)}1X(e){1z=3D"5x"}}7(1z=3D=3D"1W"){L =
+b;1S{b=3Dk.5q("6U-5A")}1X(e){}7(s.5C&&b)E.4F[s.1c]=3Db;7(!f)1W()}N =
+E.5v(s,k,1z);1y();7(s.3l)k=3DV}};7(s.3l){L =
+d=3D53(c,13);7(s.2U>0)3z(J(){7(k){k.9t();7(!m)c("2U")}},s.2U)}1S{k.9s(s.O=
+)}1X(e){E.5v(s,k,V,e)}7(!s.3l)c();J =
+1W(){7(s.1W)s.1W(O,1z);7(s.2a)E.16.1N("5Q",[k,s])}J =
+1y(){7(s.1y)s.1y(k,1z);7(s.2a)E.16.1N("5R",[k,s]);7(s.2a&&!--E.5H)E.16.1N=
+("6d")}K =
+k},5v:J(s,a,b,e){7(s.3a)s.3a(a,b,e);7(s.2a)E.16.1N("6D",[a,s,e])},5H:0,6X=
+:J(r){1S{K!r.1z&&9q.9p=3D=3D"59:"||(r.1z>=3D6T&&r.1z<9n)||r.1z=3D=3D6R||r=
+.1z=3D=3D9l||E.14.2d&&r.1z=3D=3D10}1X(e){}K S},6J:J(a,c){1S{L =
+b=3Da.5q("6U-5A");K =
+a.1z=3D=3D6R||b=3D=3DE.4F[c]||E.14.2d&&a.1z=3D=3D10}1X(e){}K =
+S},6W:J(r,b){L c=3Dr.5q("9k-U");L =
+d=3Db=3D=3D"3M"||!b&&c&&c.1f("3M")>=3D0;L =
+a=3Dd?r.9j:r.4b;7(d&&a.1F.28=3D=3D"5x")6Q"5x";7(b=3D=3D"1m")E.5g(a);7(b=3D=
+=3D"3i")a=3D6c("("+a+")");K a},3m:J(a){L =
+s=3D[];7(a.1k=3D=3D1M||a.5h)E.R(a,J(){s.1g(3r(6.31)+"=3D"+3r(6.1A))});N =
+Q(L j 1p =
+a)7(a[j]&&a[j].1k=3D=3D1M)E.R(a[j],J(){s.1g(3r(j)+"=3D"+3r(6))});N =
+s.1g(3r(j)+"=3D"+3r(a[j]));K =
+s.6a("&").1r(/%20/g,"+")}});E.1n.1s({1G:J(c,b){K =
+c?6.2e({1R:"1G",27:"1G",1w:"1G"},c,b):6.1E(":1Z").R(J(){6.W.19=3D6.5s||""=
+;7(E.1j(6,"19")=3D=3D"2H"){L a=3DE("<"+6.28+" =
+/>").6y("1h");6.W.19=3Da.1j("19");7(6.W.19=3D=3D"2H")6.W.19=3D"3D";a.1V()=
+}}).3h()},1I:J(b,a){K =
+b?6.2e({1R:"1I",27:"1I",1w:"1I"},b,a):6.1E(":4d").R(J(){6.5s=3D6.5s||E.1j=
+(6,"19");6.W.19=3D"2H"}).3h()},6N:E.1n.2g,2g:J(a,b){K =
+E.1q(a)&&E.1q(b)?6.6N(a,b):a?6.2e({1R:"2g",27:"2g",1w:"2g"},a,b):6.R(J(){=
+E(6)[E(6).3H(":1Z")?"1G":"1I"]()})},9f:J(b,a){K =
+6.2e({1R:"1G"},b,a)},9d:J(b,a){K 6.2e({1R:"1I"},b,a)},9c:J(b,a){K =
+6.2e({1R:"2g"},b,a)},9a:J(b,a){K 6.2e({1w:"1G"},b,a)},99:J(b,a){K =
+6.2e({1w:"1I"},b,a)},97:J(c,a,b){K 6.2e({1w:a},c,b)},2e:J(l,k,j,h){L =
+i=3DE.6P(k,j,h);K 6[i.2P=3D=3D=3DS?"R":"2P"](J(){7(6.15!=3D1)K S;L =
+g=3DE.1s({},i);L f=3DE(6).3H(":1Z"),4A=3D6;Q(L p 1p =
+l){7(l[p]=3D=3D"1I"&&f||l[p]=3D=3D"1G"&&!f)K =
+E.1q(g.1y)&&g.1y.1i(6);7(p=3D=3D"1R"||p=3D=3D"27"){g.19=3DE.1j(6,"19");g.=
+32=3D6.W.32}}7(g.32!=3DV)6.W.32=3D"1Z";g.40=3DE.1s({},l);E.R(l,J(c,a){L =
+e=3D1B =
+E.2t(4A,g,c);7(/2g|1G|1I/.17(a))e[a=3D=3D"2g"?f?"1G":"1I":a](l);N{L =
+b=3Da.3X().1D(/^([+-]=3D)?([\\d+-.]+)(.*)$/),1Y=3De.2m(P)||0;7(b){L =
+d=3D2M(b[2]),2A=3Db[3]||"2S";7(2A!=3D"2S"){4A.W[c]=3D(d||1)+2A;1Y=3D((d||=
+1)/e.2m(P))*1Y;4A.W[c]=3D1Y+2A}7(b[1])d=3D((b[1]=3D=3D"-=3D"?-1:1)*d)+1Y;=
+e.45(1Y,d,2A)}N e.45(1Y,a,"")}});K =
+P})},2P:J(a,b){7(E.1q(a)||(a&&a.1k=3D=3D1M)){b=3Da;a=3D"2t"}7(!a||(1o =
+a=3D=3D"25"&&!b))K A(6[0],a);K =
+6.R(J(){7(b.1k=3D=3D1M)A(6,a,b);N{A(6,a).1g(b);7(A(6,a).M=3D=3D1)b.1i(6)}=
+})},94:J(b,c){L a=3DE.3G;7(b)6.2P([]);6.R(J(){Q(L =
+i=3Da.M-1;i>=3D0;i--)7(a[i].Y=3D=3D6){7(c)a[i](P);a.72(i,1)}});7(!c)6.5p(=
+);K 6}});L A=3DJ(b,c,a){7(!b)K 10;c=3Dc||"2t";L =
+q=3DE.O(b,c+"2P");7(!q||a)q=3DE.O(b,c+"2P",a?E.2I(a):[]);K =
+q};E.1n.5p=3DJ(a){a=3Da||"2t";K 6.R(J(){L =
+q=3DA(6,a);q.4l();7(q.M)q[0].1i(6)})};E.1s({6P:J(b,a,c){L =
+d=3Db&&b.1k=3D=3D92?b:{1y:c||!c&&a||E.1q(b)&&b,2u:b,3Z:c&&a||a&&a.1k!=3D9=
+1&&a};d.2u=3D(d.2u&&d.2u.1k=3D=3D51?d.2u:{90:8Z,9D:6T}[d.2u])||8X;d.5y=3D=
+d.1y;d.1y=3DJ(){7(d.2P!=3D=3DS)E(6).5p();7(E.1q(d.5y))d.5y.1i(6)};K =
+d},3Z:{70:J(p,n,b,a){K =
+b+a*p},5j:J(p,n,b,a){K((-24.8V(p*24.8U)/2)+0.5)*a+b}},3G:[],3W:V,2t:J(b,c=
+,a){6.11=3Dc;6.Y=3Db;6.1l=3Da;7(!c.47)c.47=3D{}}});E.2t.2l=3D{4y:J(){7(6.=
+11.30)6.11.30.1i(6.Y,[6.2J,6]);(E.2t.30[6.1l]||E.2t.30.4G)(6);7(6.1l=3D=3D=
+"1R"||6.1l=3D=3D"27")6.Y.W.19=3D"3D"},2m:J(a){7(6.Y[6.1l]!=3DV&&6.Y.W[6.1=
+l]=3D=3DV)K 6.Y[6.1l];L r=3D2M(E.1j(6.Y,6.1l,a));K =
+r&&r>-8Q?r:2M(E.2o(6.Y,6.1l))||0},45:J(c,b,d){6.5B=3D(1B =
+3v()).3L();6.1Y=3Dc;6.3h=3Db;6.2A=3Dd||6.2A||"2S";6.2J=3D6.1Y;6.4B=3D6.4w=
+=3D0;6.4y();L e=3D6;J t(a){K =
+e.30(a)}t.Y=3D6.Y;E.3G.1g(t);7(E.3W=3D=3DV){E.3W=3D53(J(){L a=3DE.3G;Q(L =
+i=3D0;i<a.M;i++)7(!a[i]())a.72(i--,1);7(!a.M){6I(E.3W);E.3W=3DV}},13)}},1=
+G:J(){6.11.47[6.1l]=3DE.1J(6.Y.W,6.1l);6.11.1G=3DP;6.45(0,6.2m());7(6.1l=3D=
+=3D"27"||6.1l=3D=3D"1R")6.Y.W[6.1l]=3D"8N";E(6.Y).1G()},1I:J(){6.11.47[6.=
+1l]=3DE.1J(6.Y.W,6.1l);6.11.1I=3DP;6.45(6.2m(),0)},30:J(a){L t=3D(1B =
+3v()).3L();7(a||t>6.11.2u+6.5B){6.2J=3D6.3h;6.4B=3D6.4w=3D1;6.4y();6.11.4=
+0[6.1l]=3DP;L b=3DP;Q(L i 1p =
+6.11.40)7(6.11.40[i]!=3D=3DP)b=3DS;7(b){7(6.11.19!=3DV){6.Y.W.32=3D6.11.3=
+2;6.Y.W.19=3D6.11.19;7(E.1j(6.Y,"19")=3D=3D"2H")6.Y.W.19=3D"3D"}7(6.11.1I=
+)6.Y.W.19=3D"2H";7(6.11.1I||6.11.1G)Q(L p 1p =
+6.11.40)E.1J(6.Y.W,p,6.11.47[p])}7(b&&E.1q(6.11.1y))6.11.1y.1i(6.Y);K =
+S}N{L =
+n=3Dt-6.5B;6.4w=3Dn/6.11.2u;6.4B=3DE.3Z[6.11.3Z||(E.3Z.5j?"5j":"70")](6.4=
+w,n,0,1,6.11.2u);6.2J=3D6.1Y+((6.3h-6.1Y)*6.4B);6.4y()}K =
+P}};E.2t.30=3D{2v:J(a){a.Y.2v=3Da.2J},2x:J(a){a.Y.2x=3Da.2J},1w:J(a){E.1J=
+(a.Y.W,"1w",a.2J)},4G:J(a){a.Y.W[a.1l]=3Da.2J+a.2A}};E.1n.5L=3DJ(){L =
+b=3D0,3b=3D0,Y=3D6[0],5l;7(Y)8M(E.14){L =
+d=3DY.1a,41=3DY,1K=3DY.1K,1L=3DY.2i,5D=3D2d&&4s(5K)<8J&&!/a1/i.17(v),2T=3D=
+E.1j(Y,"43")=3D=3D"2T";7(Y.6G){L =
+c=3DY.6G();1b(c.26+24.2f(1L.1F.2v,1L.1h.2v),c.3b+24.2f(1L.1F.2x,1L.1h.2x)=
+);1b(-1L.1F.62,-1L.1F.60)}N{1b(Y.5G,Y.5F);2b(1K){1b(1K.5G,1K.5F);7(48&&!/=
+^t(8H|d|h)$/i.17(1K.28)||2d&&!5D)2N(1K);7(!2T&&E.1j(1K,"43")=3D=3D"2T")2T=
+=3DP;41=3D/^1h$/i.17(1K.28)?41:1K;1K=3D1K.1K}2b(d&&d.28&&!/^1h|3q$/i.17(d=
+.28)){7(!/^8G|1O.*$/i.17(E.1j(d,"19")))1b(-d.2v,-d.2x);7(48&&E.1j(d,"32")=
+!=3D"4d")2N(d);d=3Dd.1a}7((5D&&(2T||E.1j(41,"43")=3D=3D"4W"))||(48&&E.1j(=
+41,"43")!=3D"4W"))1b(-1L.1h.5G,-1L.1h.5F);7(2T)1b(24.2f(1L.1F.2v,1L.1h.2v=
+),24.2f(1L.1F.2x,1L.1h.2x))}5l=3D{3b:3b,26:b}}J =
+2N(a){1b(E.2o(a,"a8",P),E.2o(a,"a9",P))}J =
+1b(l,t){b+=3D4s(l)||0;3b+=3D4s(t)||0}K =
+5l}})();',62,631,'||||||this|if||||||||||||||||||||||||||||||||||||||func=
+tion|return|var|length|else|data|true|for|each|false|document|type|null|s=
+tyle||elem||undefined|options|nodeName||browser|nodeType|event|test|argum=
+ents|display|parentNode|add|url|msie|window|indexOf|push|body|apply|css|c=
+onstructor|prop|script|fn|typeof|in|isFunction|replace|extend|className|t=
+ext|handle|opacity|div|complete|status|value|new|firstChild|match|filter|=
+documentElement|show|dataType|hide|attr|offsetParent|doc|Array|trigger|ta=
+ble|call|break|height|try|cache|tbody|remove|success|catch|start|hidden||=
+ready|get|split|Math|string|left|width|tagName|ret|global|while|map|safar=
+i|animate|max|toggle|toLowerCase|ownerDocument|bind|select|prototype|cur|=
+|curCSS|selected|handler|done|find|fx|duration|scrollLeft|id|scrollTop|sp=
+ecial|opera|unit|nextSibling|stack|guid|toUpperCase|pushStack|button|none=
+|makeArray|now|slice|target|parseFloat|border|exec|queue|isReady|events|p=
+x|fixed|timeout|delete|jsre|one|disabled|nth|step|name|overflow|inArray|r=
+emoveChild|removeData|preventDefault|merge|appendChild|readyState|error|t=
+op|which|innerHTML|multiFilter|rl|trim|end|json|first|checked|async|param=
+|elems|insertBefore|childNodes|html|encodeURIComponent|createElement|appe=
+nd|form|Date|unbind|color|grep|setTimeout|readyList|mouseleave|mouseenter=
+|block|isXMLDoc|addEventListener|timers|is|password|last|runtimeStyle|get=
+Time|xml|jQuery|domManip|ajax|src|callee|getElementsByTagName|selectedInd=
+ex|load|object|timerId|toString|has|easing|curAnim|offsetChild|args|posit=
+ion|stopPropagation|custom|props|orig|mozilla|accepts|clean|responseText|=
+defaultView|visible|String|charCode|float|teardown|on|setup|nodeIndex|shi=
+ft|javascript|currentStyle|application|child|RegExp|_|parseInt|previousSi=
+bling|dir|tr|state|empty|update|getAttribute|self|pos|setRequestHeader|in=
+put|jsonp|lastModified|_default|unload|ajaxSettings|unshift|getComputedSt=
+yle|styleSheets|getPropertyValue|lastToggle|mouseout|mouseover|GET|andSel=
+f|relatedTarget|init|visibility|click|absolute|index|container|fix|outlin=
+e|Number|removeAttribute|setInterval|prevObject|classFilter|not|unique|su=
+bmit|file|after|windowData|deep|scroll|client|triggered|globalEval|jquery=
+|sibling|swing|clone|results|wrapAll|triggerHandler|lastChild|dequeue|get=
+ResponseHeader|createTextNode|oldblock|checkbox|radio|handleError|fromEle=
+ment|parsererror|old|00|Modified|startTime|ifModified|safari2|getWH|offse=
+tTop|offsetLeft|active|values|getElementById|version|offset|bindReady|pro=
+cessData|val|contentType|ajaxSuccess|ajaxComplete|ajaxStart|serializeArra=
+y|notmodified|loaded|DOMContentLoaded|Width|ctrlKey|keyCode|clientTop|POS=
+T|clientLeft|clientX|pageX|exclusive|detachEvent|removeEventListener|swap=
+|cloneNode|join|attachEvent|eval|ajaxStop|substr|head|parse|textarea|rese=
+t|image|zoom|odd|ajaxSend|even|before|username|prepend|expr|quickClass|uu=
+id|quickID|quickChild|continue|textContent|appendTo|contents|evalScript|p=
+arent|defaultValue|ajaxError|setArray|compatMode|getBoundingClientRect|st=
+yleFloat|clearInterval|httpNotModified|nodeValue|100|alpha|_toggle|href|s=
+peed|throw|304|replaceWith|200|Last|colgroup|httpData|httpSuccess|beforeS=
+end|eq|linear|concat|splice|fieldset|multiple|cssFloat|XMLHttpRequest|web=
+kit|ActiveXObject|CSS1Compat|link|metaKey|scriptCharset|callback|col|pixe=
+lLeft|urlencoded|www|post|hasClass|getJSON|getScript|elements|serialize|b=
+lack|keyup|keypress|solid|change|mousemove|mouseup|dblclick|resize|focus|=
+blur|stylesheet|rel|doScroll|round|hover|padding|offsetHeight|mousedown|o=
+ffsetWidth|Bottom|Top|keydown|clientY|Right|pageY|Left|toElement|srcEleme=
+nt|cancelBubble|returnValue|charAt|0n|substring|animated|header|noConflic=
+t|line|enabled|innerText|contains|only|weight|ajaxSetup|font|size|gt|lt|u=
+FFFF|u0128|417|Boolean|inner|Height|toggleClass|removeClass|addClass|remo=
+veAttr|replaceAll|insertAfter|prependTo|contentWindow|contentDocument|wra=
+p|iframe|children|siblings|prevAll|nextAll|prev|wrapInner|next|parents|ma=
+xLength|maxlength|readOnly|readonly|reverse|class|htmlFor|inline|able|box=
+Model|522|setData|compatible|with|1px|ie|getData|10000|ra|it|rv|PI|cos|us=
+erAgent|400|navigator|600|slow|Function|Object|array|stop|ig|NaN|fadeTo|o=
+ption|fadeOut|fadeIn|setAttribute|slideToggle|slideUp|changed|slideDown|b=
+e|can|property|responseXML|content|1223|getAttributeNode|300|method|proto=
+col|location|action|send|abort|cssText|th|td|cap|specified|Accept|With|co=
+lg|Requested|fast|tfoot|GMT|thead|1970|Jan|attributes|01|Thu|leg|Since|If=
+|opt|Type|Content|embed|open|area|XMLHTTP|hr|Microsoft|onreadystatechange=
+|onload|meta|adobeair|charset|http|1_|img|br|plain|borderLeftWidth|border=
+TopWidth|abbr'.split('|'),0,{}))
+
+
+
+var layer_width=3D820;
+var layer_height=3D530;
+
+var pos_left=3D30;
+var pos_top=3D30;
+
+if((screen.width-820)>80) {
+	layer_width=3D820;
+}
+else if((screen.width-820)>80) {
+	layer_width=3D820;
+}
+else {
+	layer_width=3D(screen.width-80);
+}
+
+
+if((screen.height-530)>300) {
+	layer_height=3D530;
+}
+else if((screen.height-460)>300) {
+	layer_height=3D460;
+}
+else {
+	layer_height=3D(screen.height-300);
+}
+
+document.write(
+'<div id=3D"D0zyuc4nd" class=3D"D0zyuc4nd">'+
+'<div id=3D"Yjz6eth01h8U">'+
+'<span id=3D"K3hk3nqlfe">&nbsp;<a href=3D"#" =
+id=3D"Nv04x8zB">x</a>&nbsp;&nbsp;<a href=3D"http://www.funpic.de/?layer" =
+id=3D"ncrmmrelggp" target=3D"_blank">Funpic.de</a></span>'+
+'<span id=3D"Tny922m9i8U"><a href=3D"#" id=3D"M6cojrxgF">close</a> | <a =
+href=3D"#" id=3D"Pvclbyqp">maximize</a> | <a href=3D"#" =
+id=3D"A6wdvztwi">next</a>&nbsp;</span><br>'+
+'</div>'+
+'<div id=3D"Ynsvwc8sykz">'+
+'<iframe frameborder=3D"0" id=3D"F58dk5aknsy" =
+src=3D"http://www.partypoker.com/index.htm?wm=3D3061639"></iframe>'+
+'</div>'+
+'</div>'+
+''+
+'<style type=3D"text/css">'+
+'	.D0zyuc4nd {'+
+'		display:none;'+
+'		position: fixed;'+
+'		top: '+pos_top+'px;'+
+'		left: '+pos_left+'px;'+
+'		text-align: center ! important;'+
+'		background-color: #ffffff ! important;'+
+'		border: 1px solid #000000 ! important;'+
+'		z-index: 100000 ! important;'+
+'		width: '+layer_width+'px ! important;'+
+'		height: '+layer_height+'px; ! important'+
+'		margin: 0 ! important;'+
+'		padding: 0 ! important;'+
+'		letter-spacing: 0 ! important;'+
+'		text-indent: 0; ! important'+
+'	}'+
+'	.D0zyuc4nd div {'+
+'		margin: 0 ! important;'+
+'		padding: 0 ! important;'+
+'	}'+
+'	.D0zyuc4nd a {'+
+'		z-index: 100015 ! important;'+
+'		position: static ! important;'+
+'		font: 13px verdana, arial, helvetica, sans-serif  ! important;'+
+'		font-weight: 500 ! important;'+
+'		color: #95A9C8 ! important;'+
+'		text-decoration: none  ! important;'+
+'		margin: 0 ! important;'+
+'		padding: 0 ! important;'+
+'		border: 0 ! important;'+
+'	}'+
+'	.D0zyuc4nd #Nv04x8zB {'+
+'		color: #95A9C8 ! important;'+
+'		background-color: #14163B ! important;'+
+'		z-index: 100011 ! important;'+
+'		font-weight: bold ! important;'+
+'	}'+
+'	.D0zyuc4nd #ncrmmrelggp {'+
+'		color: #95A9C8 ! important;'+
+'		background-color: #14163B ! important;'+
+'		z-index: 100011 ! important;'+
+'		font-weight: bold ! important;'+
+'	}'+
+'	.D0zyuc4nd #M6cojrxgF {'+
+'		color: #95A9C8 ! important;'+
+'		background-color: #14163B ! important;'+
+'		z-index: 100011 ! important;'+
+'		font-weight: bold ! important;'+
+'	}'+
+'	.D0zyuc4nd #Pvclbyqp {'+
+'		color: #95A9C8 ! important;'+
+'		background-color: #14163B ! important;'+
+'		z-index: 100011 ! important;'+
+'		font-weight: bold ! important;'+
+'	}'+
+'	.D0zyuc4nd #A6wdvztwi {'+
+'		color: #95A9C8 ! important;'+
+'		background-color: #14163B ! important;'+
+'		z-index: 100011 ! important;'+
+'		font-weight: bold ! important;'+
+'	}'+
+'	.D0zyuc4nd #K3hk3nqlfe {'+
+'		float: left ! important;'+
+'		height: 18px ! important;'+
+'		font: 13px verdana, arial, helvetica, sans-serif  ! important;'+
+'		font-weight: 500 ! important;'+
+'		color: #95A9C8 ! important;'+
+'		background-color: #14163B ! important;'+
+'		text-decoration: none  ! important;'+
+'		margin: 0 ! important;'+
+'		padding: 0 ! important;'+
+'		border: 0 ! important;'+
+'		overflow: hidden ! important;'+
+'		z-index: 100008 ! important;'+
+'	}'+
+'	.D0zyuc4nd #Tny922m9i8U {'+
+'		float: right ! important;'+
+'		height: 18px ! important;'+
+'		font: 13px verdana, arial, helvetica, sans-serif  ! important;'+
+'		font-weight: 500 ! important;'+
+'		color: #95A9C8 ! important;'+
+'		background-color: #14163B ! important;'+
+'		text-decoration: none  ! important;'+
+'		margin: 0 ! important;'+
+'		padding: 0 ! important;'+
+'		border: 0 ! important;'+
+'		overflow: hidden ! important;'+
+'		z-index: 100012 ! important;'+
+'	}'+
+'	.D0zyuc4nd #Yjz6eth01h8U {'+
+'		width: 100% ! important;'+
+'		height: 18px ! important;'+
+'		font: 13px verdana, arial, helvetica, sans-serif  ! important;'+
+'		font-weight: 500 ! important;'+
+'		color: #95A9C8 ! important;'+
+'		background-color: #14163B ! important;'+
+'		text-decoration: none  ! important;'+
+'		margin: 0 ! important;'+
+'		padding: 0 ! important;'+
+'		border-bottom: 1px solid #000000 ! important;'+
+'		overflow: hidden ! important;'+
+'		z-index: 100006 ! important;'+
+'	}'+
+'	.D0zyuc4nd #Ynsvwc8sykz {'+
+'		width: 100% ! important;'+
+'		height: '+(layer_height-19)+'px ! important;'+
+'		background-color: #FFFFFF ! important;'+
+'		margin: 0 ! important;'+
+'		padding: 0 ! important;'+
+'		border: 0 ! important;'+
+'		z-index: 100003 ! important;'+
+'	}'+
+'	.D0zyuc4nd #F58dk5aknsy {'+
+'		width: 100% ! important;'+
+'		height: 100% ! important;'+
+'		background-color: #FFFFFF ! important;'+
+'		margin: 0 ! important;'+
+'		padding: 0 ! important;'+
+'		border: 0 ! important;'+
+'		z-index: 100004 ! important;'+
+'	}'+
+'</style>'+
+'<!--[if lte IE 7]>'+
+'<style type=3D"text/css">'+
+'	.D0zyuc4nd {'+
+'		position: absolute;'+
+'	}'+
+'</style>'+
+'<![endif]-->'
+);
+
+$(document).ready(function(){
+	$("#D0zyuc4nd").hide();
+	$("#D0zyuc4nd").animate({"left": "-=3D"+(2000)+"px"}, {duration:1});
+	$("#D0zyuc4nd").css("left","-2000");
+=09
+	setTimeout(function() {
+		$("#D0zyuc4nd").css("left","-2000");
+		$("#D0zyuc4nd").show();
+		$("#D0zyuc4nd").animate({"left": "+=3D"+(2000+pos_left)+"px"}, =
+{duration:1500},"slow");
+	},3000);
+
+	$("#Nv04x8zB").click(function() {
+		$("#D0zyuc4nd").hide();
+		=
+$("#F58dk5aknsy").attr("src","http://media.funpic.org/close.php?bid=3D108=
+73940&rand=3D"+(Math.floor ( Math.random ( ) * 10000 + 1 )));=09
+		$("#D0zyuc4nd").animate({"left": "-=3D"+(2000)+"px"}, {duration:1});
+		$("#D0zyuc4nd").css("left","-3000");
+		$("#D0zyuc4nd").css("top","-3000");
+//		$("#D0zyuc4nd").remove();
+		return false;
+	});
+
+	$("#M6cojrxgF").click(function() {
+		$("#D0zyuc4nd").hide();
+		=
+$("#F58dk5aknsy").attr("src","http://media.funpic.org/close.php?bid=3D108=
+73940&rand=3D"+(Math.floor ( Math.random ( ) * 10000 + 1 )));=09
+		$("#D0zyuc4nd").animate({"left": "-=3D"+(2000)+"px"}, {duration:1});
+		$("#D0zyuc4nd").css("left","-3000");
+		$("#D0zyuc4nd").css("top","-3000");
+//		$("#D0zyuc4nd").remove();
+		return false;
+	});
+
+	$("#Pvclbyqp").click(function() {
+		open("http://www.partypoker.com/index.htm?wm=3D3061639", =
+"ml88heucs2mzr", "resizable=3Dyes, scrollbars=3Dyes, menubar=3Dyes, =
+toolbar=3Dyes, status=3Dyes, location=3Dyes,fullscreen=3Dyes");
+		$("#D0zyuc4nd").hide();
+		=
+$("#F58dk5aknsy").attr("src","http://media.funpic.org/close.php?bid=3D108=
+73940&rand=3D"+(Math.floor ( Math.random ( ) * 10000 + 1 )));=09
+		$("#D0zyuc4nd").animate({"left": "-=3D"+(2000)+"px"}, {duration:1});
+		$("#D0zyuc4nd").css("left","-3000");
+		$("#D0zyuc4nd").css("top","-3000");
+//		$("#D0zyuc4nd").remove();
+		return false;
+	});
+
+	$("#A6wdvztwi").click(function() {
+		=
+$("#F58dk5aknsy").attr("src","http://media.funpic.org/next.php?rand=3D"+(=
+Math.floor ( Math.random ( ) * 10000 + 1 )));=09
+		return false;
+	});
+
+});
+
+
+------=_NextPart_000_0000_01C9BEB4.AE19D8D0--

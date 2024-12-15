@@ -1,9 +1,7 @@
 # EG_Trainer
-
-## 介绍
 EG训练器
 
-### 【CLL】：
+## 【CLL】：
 ```txt
 R U R' U R U'2 R'
 U' R' F R2 F' R U2 R' U' R2
@@ -53,7 +51,7 @@ R'2 F2 R U R' F U' R U R2
 R U' F U' R' U F' R' F或x U' R U' R U R' U F U'
 ```
 
-### 【EG1】：
+## 【EG1】：
 ```txt
 F' L U2 F2 L F'
 R' F R2 U' R' U R U' R' F
@@ -103,7 +101,7 @@ R' F R F' R' F R2 U' R'
 R' U R' U' R U' R' U' R2
 ```
 
-### 【EG2】：
+## 【EG2】：
 ```txt
 R U R' U R U2 R B2 R'2
 R' F U R' F R2 U R' U' R
@@ -154,7 +152,7 @@ R U' R' U2 R2 F2 U R' U' R2
 F R2 F2 R U' R2 U2 R'
 ```
 
-### XLL+PLL:
+## XLL+PLL:
 ```txt
 R2 B2 R2
 R2 U' B2 U2 R2 U' R'2
@@ -164,11 +162,83 @@ R U R' F' R U R' U' R' F R2 U' R'
 F R U' R' U' R U R' F' R U R' U' R' F R F'
 ```
 
+## COLL观察
+简单说明一下 COLL 观察法。首先按图片的方向摆好二阶，你会发现F和U面仅有四个格子是非顶面的颜色，就是靠这四个格子来判断角块位置。
+
+<table>
+    <tr>
+        <td>换角\翻角</td>
+        <td>A <img src="./src/image003.png"></td>
+        <td>B <img src="./src/image005.png"></td>
+        <td>C <img src="./src/image007.png"></td>
+        <td>D <img src="./src/image009.png"></td>
+        <td>E <img src="./src/image011.png"></td>
+        <td>F <img src="./src/image013.png"></td>
+        <td>G <img src="./src/image015.png"></td>
+    </tr>
+    <tr>
+        <td>1 <img src="./src/image001.png"></td>
+        <td>F B<br>R L</td>
+        <td>F B<br>L R</td>
+        <td>F R<br>L F</td>
+        <td>L R<br>F F</td>
+        <td>F F<br>B B</td>
+        <td>F F<br>R L</td>
+        <td>F B<br>F B</td>
+    </tr>
+    <tr>
+        <td>2 <img src="./src/image017.png"></td>
+        <td>F L<br>B F</td>
+        <td>R F<br>F B</td>
+        <td>F B<br>L F</td>
+        <td>F F<br>B B</td>
+        <td>R L<br>F F</td>
+        <td>F B<br>B F</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>3 <img src="./src/image019.png"></td>
+        <td>F L<br>R F</td>
+        <td>F R<br>L B</td>
+        <td>F F<br>L R</td>
+        <td>L F<br>F R</td>
+        <td>R F<br>L F</td>
+        <td>F L<br>R F</td>
+        <td>F R<br>F L</td>
+    </tr>
+    <tr>
+        <td>4 <img src="./src/image021.png"></td>
+        <td>B L<br>F F</td>
+        <td>R B<br>F F</td>
+        <td>F F<br>L B</td>
+        <td>F B<br>B F</td>
+        <td>F F<br>L R</td>
+        <td>F F<br>B B</td>
+        <td>F F<br>R L</td>
+    </tr>
+    <tr>
+        <td>5 <img src="./src/image023.png"></td>
+        <td>F R<br>L B</td>
+        <td>R F<br>F L</td>
+        <td>F B<br>L R</td>
+        <td>F R<br>L F</td>
+        <td>F L<br>F R</td>
+        <td>R F<br>F L</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>6 <img src="./src/image025.png"></td>
+        <td>R L<br>F F</td>
+        <td>R L<br>F F</td>
+        <td>F R<br>L B</td>
+        <td>F F<br>L R</td>
+        <td>F B<br>F B</td>
+        <td>R L<br>F F</td>
+        <td>F F<br>B B</td>
+    </tr>
+</table>
+
 ## EG
-### COLL观察
-
-
-### EG
 <table style="text-align: center;">
     <tr>
         <td>1=A layer complete;2=A connecte pair(on the B-side);</td>

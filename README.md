@@ -1,4 +1,7 @@
 # EG_Trainer
+[![license](https://img.shields.io/github/license/MuGemSt/EG_Trainer.svg)](https://github.com/MuGemSt/EG_Trainer/blob/master/LICENSE)
+[![cnblogs](https://img.shields.io/badge/cnblogs-18608067-075db3.svg)](https://www.cnblogs.com/Genius-Society/p/18608067)
+
 EG训练器
 
 ## COLL观察

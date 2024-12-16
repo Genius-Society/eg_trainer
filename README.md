@@ -1,4 +1,5 @@
 # EG_Trainer
+[![license](https://img.shields.io/github/license/MuGemSt/EG_Trainer.svg)](https://github.com/MuGemSt/EG_Trainer/blob/master/LICENSE)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f39d7a9d-b392-45c3-ae87-eaf4b6ba45e8/deploy-status)](https://app.netlify.com/sites/eg-trainer/deploys)
 [![bilibili](https://img.shields.io/badge/bilibili-BV1YcqqYtEMf-fc8bab.svg)](https://www.bilibili.com/video/BV1YcqqYtEMf)
 

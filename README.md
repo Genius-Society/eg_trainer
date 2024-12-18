@@ -83,7 +83,8 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
 ## EG
 <table>
     <tr align="center">
-        <td colspan="2">Orientation case →<br>Permutation case: 1=A layer complete; 2=A connecte pair(on the B-side); 3=No pairs connected ↓</td>
+        <td>1=A layer complete; 2=A connecte pair(on the B-side);</td>
+        <td>Orientation case →<br><br>3=No pairs connected; Permutation case ↓</td>
         <td>1<br><img src="./src/image027.png"></td>
         <td>2<br><img src="./src/image029.png"></td>
         <td>3<br><img src="./src/image031.png"></td>

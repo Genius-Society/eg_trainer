@@ -10,16 +10,16 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
 <table>
     <tr align="center">
         <td>换角\翻角</td>
-        <td>A <img src="./src/image003.png"></td>
-        <td>B <img src="./src/image005.png"></td>
-        <td>C <img src="./src/image007.png"></td>
-        <td>D <img src="./src/image009.png"></td>
-        <td>E <img src="./src/image011.png"></td>
-        <td>F <img src="./src/image013.png"></td>
-        <td>G <img src="./src/image015.png"></td>
+        <td>A<br><img src="./src/image003.png"></td>
+        <td>B<br><img src="./src/image005.png"></td>
+        <td>C<br><img src="./src/image007.png"></td>
+        <td>D<br><img src="./src/image009.png"></td>
+        <td>E<br><img src="./src/image011.png"></td>
+        <td>F<br><img src="./src/image013.png"></td>
+        <td>G<br><img src="./src/image015.png"></td>
     </tr>
     <tr align="center">
-        <td>1 <img src="./src/image001.png"></td>
+        <td>1<br><img src="./src/image001.png"></td>
         <td>F B<br>R L</td>
         <td>F B<br>L R</td>
         <td>F R<br>L F</td>
@@ -29,7 +29,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>F B<br>F B</td>
     </tr>
     <tr align="center">
-        <td>2 <img src="./src/image017.png"></td>
+        <td>2<br><img src="./src/image017.png"></td>
         <td>F L<br>B F</td>
         <td>R F<br>F B</td>
         <td>F B<br>L F</td>
@@ -39,7 +39,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>-</td>
     </tr>
     <tr align="center">
-        <td>3 <img src="./src/image019.png"></td>
+        <td>3<br><img src="./src/image019.png"></td>
         <td>F L<br>R F</td>
         <td>F R<br>L B</td>
         <td>F F<br>L R</td>
@@ -49,7 +49,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>F R<br>F L</td>
     </tr>
     <tr align="center">
-        <td>4 <img src="./src/image021.png"></td>
+        <td>4<br><img src="./src/image021.png"></td>
         <td>B L<br>F F</td>
         <td>R B<br>F F</td>
         <td>F F<br>L B</td>
@@ -59,7 +59,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>F F<br>R L</td>
     </tr>
     <tr align="center">
-        <td>5 <img src="./src/image023.png"></td>
+        <td>5<br><img src="./src/image023.png"></td>
         <td>F R<br>L B</td>
         <td>R F<br>F L</td>
         <td>F B<br>L R</td>
@@ -69,7 +69,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>-</td>
     </tr>
     <tr align="center">
-        <td>6 <img src="./src/image025.png"></td>
+        <td>6<br><img src="./src/image025.png"></td>
         <td>R L<br>F F</td>
         <td>R L<br>F F</td>
         <td>F R<br>L B</td>

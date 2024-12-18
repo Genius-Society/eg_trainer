@@ -1,10 +1,10 @@
-# EG_Trainer
+# EG Trainer
 [![license](https://img.shields.io/github/license/MuGemSt/EG_Trainer.svg)](https://github.com/MuGemSt/EG_Trainer/blob/master/LICENSE)
 [![cnblogs](https://img.shields.io/badge/cnblogs-18608067-075db3.svg)](https://www.cnblogs.com/Genius-Society/p/18608067)
 
-EG训练器
+EG 训练器
 
-## COLL观察
+## COLL 观察
 简单说明一下 COLL 观察法。首先按图片的方向摆好二阶, 你会发现F和U面仅有四个格子是非顶面的颜色, 就是靠这四个格子来判断角块位置。
 
 <table>

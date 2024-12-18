@@ -8,7 +8,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
 简单说明一下 COLL 观察法。首先按图片的方向摆好二阶, 你会发现F和U面仅有四个格子是非顶面的颜色, 就是靠这四个格子来判断角块位置。
 
 <table>
-    <tr>
+    <tr align="center">
         <td>换角\翻角</td>
         <td>A <img src="./src/image003.png"></td>
         <td>B <img src="./src/image005.png"></td>
@@ -18,7 +18,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>F <img src="./src/image013.png"></td>
         <td>G <img src="./src/image015.png"></td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>1 <img src="./src/image001.png"></td>
         <td>F B<br>R L</td>
         <td>F B<br>L R</td>
@@ -28,7 +28,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>F F<br>R L</td>
         <td>F B<br>F B</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>2 <img src="./src/image017.png"></td>
         <td>F L<br>B F</td>
         <td>R F<br>F B</td>
@@ -38,7 +38,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>F B<br>B F</td>
         <td>-</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>3 <img src="./src/image019.png"></td>
         <td>F L<br>R F</td>
         <td>F R<br>L B</td>
@@ -48,7 +48,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>F L<br>R F</td>
         <td>F R<br>F L</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>4 <img src="./src/image021.png"></td>
         <td>B L<br>F F</td>
         <td>R B<br>F F</td>
@@ -58,7 +58,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>F F<br>B B</td>
         <td>F F<br>R L</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>5 <img src="./src/image023.png"></td>
         <td>F R<br>L B</td>
         <td>R F<br>F L</td>
@@ -68,7 +68,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>R F<br>F L</td>
         <td>-</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>6 <img src="./src/image025.png"></td>
         <td>R L<br>F F</td>
         <td>R L<br>F F</td>
@@ -81,8 +81,8 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
 </table>
 
 ## EG
-<table style="text-align: center;">
-    <tr>
+<table>
+    <tr align="center">
         <td>1=A layer complete;2=A connecte pair(on the B-side);</td>
         <td>Orientation case →<br>3=No pairs connected;<br>Permutation case ↓</td>
         <td>1<br><img src="./src/image027.png"></td>
@@ -94,7 +94,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>7<br><img src="./src/image039.png"></td>
         <td>8<br><img src="./src/image041.png"></td>
     </tr>
-    <tr>
+    <tr align="center">
         <td rowspan="3">A<img src="./src/image027.png"></td>
         <td>1</td>
         <td>-</td>
@@ -106,7 +106,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>(U)FRUR&#39;U&#39;RUR&#39;U&#39;F&#39;(9f)</td>
         <td>R2U2RU2R2(5f)</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>2</td>
         <td>(x)RU&#39;RU2R&#39;FRU2R2(9f)</td>
         <td>(U&#39;x)URU2R2F2U2RUR&#39;(9f)</td>
@@ -117,7 +117,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>(x)URU2RU2F2R&#39;F&#39;R2 (9f)</td>
         <td>RU&#39;RF&#39;R&#39;FR2F(8f)</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>3</td>
         <td>RU&#39;RUR&#39;F2R&#39;U&#39;R&#39;UF2(11f)</td>
         <td>(z&#39;)U2R&#39;UR&#39;F2UR&#39;FR2B(10f)</td>
@@ -128,7 +128,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>RU&#39;R2U&#39;F2R&#39;U2R&#39;F(9f)</td>
         <td>F2RU2R2F2R&#39;F2(7f)</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td rowspan="3">B<img src="./src/image045.png"></td>
         <td>1</td>
         <td>(x&#39;)RU&#39;RU2R&#39;FRU2R2(9f)</td>
@@ -140,7 +140,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>(U&#39;)R&#39;F2U2y&#39;R&#39;U2RU2RB(9f)</td>
         <td>（U2）RU&#39;R&#39;FU2R2FRU&#39;R(10f)</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>2</td>
         <td>(U2)R2UF2U&#39;2R2UR2(7f)</td>
         <td>R&#39;URF2U2F&#39;UF2R2(9f)</td>
@@ -151,7 +151,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>RU&#39;R&#39;URU&#39;R&#39;FRU&#39;R&#39;(11f)</td>
         <td>(U)R&#39;U&#39;R&#39;F2UF&#39;RF&#39;(8f)</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>3</td>
         <td>R&#39;FR&#39;F2RU&#39;R(7f)</td>
         <td>(x)R&#39;UR&#39;UF2R2U&#39;B2R2U&#39;(10f) </td>
@@ -162,7 +162,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>R&#39;UF&#39;RUR&#39;U2F2R(9f)</td>
         <td>(U2)R&#39;U2R&#39;FR2FR2UF&#39;(9f)</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td rowspan="3">C<img src="./src/image047.png"></td>
         <td>1</td>
         <td>RU2R&#39;U&#39;RU2L&#39;UR&#39;U&#39;R(11f)</td>
@@ -174,7 +174,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>RU2R2FRU2y&#39;R&#39;U&#39;R2U&#39;R&#39;(11f)</td>
         <td>(U2)R&#39;U&#39;F2U&#39;F2UF2U2R(9f)</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>2</td>
         <td>(U)R2UF2U&#39;2R2UR2(7f)</td>
         <td>R&#39;U&#39;R&#39;F&#39;UF2R2U&#39;R&#39;(9f)</td>
@@ -185,7 +185,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>R2U&#39;R2U&#39;FR2F2U&#39;RF(10f)</td>
         <td>(U2)RUR&#39;F&#39;RUR&#39;U&#39;RUR&#39;(11f)</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>3</td>
         <td>(U&#39;)R&#39;FR&#39;F2RU&#39;R(7f)</td>
         <td>(U2)RUR&#39;UF2R&#39;UR&#39;F (9f)</td>
@@ -196,7 +196,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>RU2R&#39;UR2F2R&#39;U&#39;R&#39; (9f)</td>
         <td>R&#39;F2U2RU&#39;R&#39;FU&#39;R(9f)</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td rowspan="3">D<img src="./src/image049.png"></td>
         <td>1</td>
         <td>(U&#39;)RU2R&#39;U&#39;RU2L&#39;UR&#39;U&#39;R(11f)</td>
@@ -208,7 +208,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>(U&#39;)R&#39;UR&#39;F&#39;R2U2F&#39;RUR&#39;(10f)</td>
         <td>RU&#39;R&#39;FU2R2FRU&#39;R(10f)</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>2</td>
         <td>R2UF2U&#39;2R2UR2(7f)</td>
         <td>(z&#39;)U&#39;R&#39;F2U&#39;F2U2RF&#39;</td>
@@ -219,7 +219,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>(x)UR&#39;U2RUF2U&#39;FRU&#39; (10f)</td>
         <td>(U&#39;)R&#39;U&#39;R&#39;F2UF&#39;RF&#39;(8f)</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>3</td>
         <td>R&#39;UR&#39;F2RF&#39;R(7f)</td>
         <td>(x)F&#39;L&#39;U&#39;FU&#39;R2BR2(8f)</td>
@@ -230,7 +230,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>R2URUF2R&#39;UR&#39;UF&#39; (10f)</td>
         <td>R&#39;U2R&#39;FR2FR2UF&#39;(9f)</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td rowspan="3">E<img src="./src/image051.png"></td>
         <td>1</td>
         <td>(Ux&#39;)RU&#39;RU2R&#39;FRU2R2(9f)</td>
@@ -242,7 +242,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>(U&#39;)R&#39;F2RU2RU&#39;R2F&#39;RUF(11f)</td>
         <td>R&#39;U&#39;F2U&#39;F2UF2U2R(9f)</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>2</td>
         <td>(U&#39;)R2UF2U&#39;2R2UR2(7f)</td>
         <td>(z&#39;)RU&#39;R2U&#39;FU2R&#39;F2R (9f)</td>
@@ -253,7 +253,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>(x)R&#39;U2RU&#39;FRF&#39;UF2U&#39; (10f)</td>
         <td>RUR&#39;F&#39;RUR&#39;U&#39;RUR&#39;(11f)</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>3</td>
         <td>(U&#39;)R&#39;UR&#39;F2RF&#39;R(7f)</td>
         <td>(x)R2U&#39;R2U&#39;FRU2R&#39;F(9f)</td>
@@ -264,7 +264,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>RUR&#39;UR2F2R&#39;U2R&#39; (9f)</td>
         <td>(U2)R&#39;F2U2RU&#39;R&#39;FU&#39;R(9f)</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td rowspan="3">F<img src="./src/image053.png"></td>
         <td>1</td>
         <td>RU&#39;R&#39;U&#39;F2U&#39;RUR&#39;UF2(11f)</td>
@@ -276,7 +276,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>(U&#39;)F2R2U&#39;R2FU2FR2U&#39;R2(10f)</td>
         <td>(y&#39;x&#39;)R2UF2U&#39;2R2UR2(7f)</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>2</td>
         <td>(z2)R&#39;UR&#39;F2RF&#39;R(7f)</td>
         <td>(y&#39;U)R2UR2U&#39;RU2R&#39;U&#39;RUR&#39;(11f)</td>
@@ -287,7 +287,7 @@ EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世�
         <td>RU&#39;R2FR2U&#39;R&#39;(7f)</td>
         <td>R2UR&#39;U&#39;RF2U&#39;RUR(10f)</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>3</td>
         <td>R2F2R2(3f)</td>
         <td>(U&#39;)R&#39;U&#39;RU&#39;R&#39;U&#39;2R&#39;F2R2(9f)</td>

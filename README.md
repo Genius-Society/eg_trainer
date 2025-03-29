@@ -1,7 +1,7 @@
 # 2x2 Tutorial Website
 [![license](https://img.shields.io/github/license/Genius-Society/EG_Trainer.svg)](https://github.com/Genius-Society/EG_Trainer/blob/master/LICENSE)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f39d7a9d-b392-45c3-ae87-eaf4b6ba45e8/deploy-status)](https://eg-trainer.netlify.app)
-[![bilibili](https://img.shields.io/badge/bilibili_4x4-BV1hYrgYxESP-fc8bab.svg)](https://www.bilibili.com/video/BV1hYrgYxESP)
+[![bili](https://img.shields.io/badge/bilibili-4x4_edge_parity-fc8bab.svg)](https://www.bilibili.com/video/BV1hYrgYxESP)
 
 2阶魔方解法网页教程
 

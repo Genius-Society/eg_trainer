@@ -1,5 +1,5 @@
 # EG Trainer
-[![license](https://img.shields.io/github/license/Genius-Society/EG_Trainer.svg)](https://github.com/Genius-Society/EG_Trainer/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/Genius-Society/EG_Trainer.svg)](https://github.com/Genius-Society/EG_Trainer/blob/main/LICENSE)
 [![cnblogs](https://img.shields.io/badge/cnblogs-18608067-075db3.svg)](https://www.cnblogs.com/Genius-Society/p/18608067)
 
 EG 在二阶魔方中是指一种高级解法，它代表两位二阶魔方世界纪录创造者 Erik Akkersdijk 和 Gunnar Krig 的名字。这种解法允许玩家在 15 秒的观察时间内实现全预判，是目前二阶魔方解法中效率极高的一种。EG 方法可以看作是 Ortega 方法的进阶版本，它通过减少所需的公式数量和优化解法步骤，使得玩家能够以更少的步骤和更快的速度解决二阶魔方。EG 方法分为三个部分：EG0、EG1 和 EG2，分别对应不同的顶层角块配置情况。EG0 类似于 CLL 方法，EG1 处理底层相邻两角需要交换的情况，而 EG2 处理底层斜对面两角需要交换的情况。掌握 EG 方法需要玩家记忆一定数量的公式，并具备良好的预判能力。
